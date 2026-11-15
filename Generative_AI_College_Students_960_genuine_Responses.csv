@@ -1,0 +1,961 @@
+Age_Group,Year_of_Study,Field_of_Study,Most_Frequently_Used_GenAI_Tool,GenAI_Usage_Frequency,Primary_Purpose_of_GenAI,Time_Saving_Rating,Trust_in_GenAI_Information,AI_Information_Verification_Frequency,Experienced_AI_Hallucination,Confidence_in_Identifying_AI_Hallucination,Biggest_GenAI_Concern,Excessive_GenAI_Reduces_Independent_Thinking,Overall_GenAI_Usefulness
+21–23,3rd Year,Engineering,Google Gemini,Several times a day,Coding/programming,5 — A lot,4,Often,Never,Very confident,Other,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,Google Gemini,Several times a day,Understanding concepts,5 — A lot,2,Sometimes,Never,Very confident,Job replacement,Strongly Disagree,4
+21–23,1st Year,Engineering,Google Gemini,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Rarely,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,1st Year,Engineering,Google Gemini,Once a day,Coding/programming,5 — A lot,4,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,4
+18–20,Postgraduate,Computer Science / IT,Other,Several times a week,Writing/grammar,4,4,Often,Very often,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+Above 26,3rd Year,Computer Science / IT,Google Gemini,Once a day,Research,4,5 — Trust completely,Often,Never,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+21–23,Postgraduate,Engineering,Microsoft Copilot,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Moderately confident,Reduced critical thinking,Neutral,5 — Extremely useful
+21–23,1st Year,Science,Google Gemini,Rarely,Research,1 — Not at all,3 — Neutral,Never,Sometimes,Slightly confident,Reduced critical thinking,Disagree,2
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,4,4,Rarely,Never,Moderately confident,Lack of originality,Disagree,4
+18–20,1st Year,Engineering,ChatGPT,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a day,Research,5 — A lot,4,Often,Rarely,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Management / Commerce,ChatGPT,Never,Personal use,2,3 — Neutral,Sometimes,Not sure,Not at all confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,1st Year,Science,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Sometimes,Sometimes,Slightly confident,Reduced critical thinking,Neutral,4
+21–23,4th Year,Arts / Humanities,ChatGPT,Several times a week,Personal use,3 — Moderately,5 — Trust completely,Sometimes,Never,Slightly confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Science,Google Gemini,Never,Academic assignments,2,3 — Neutral,Rarely,Never,Moderately confident,Job replacement,Neutral,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Often,Never,Moderately confident,Incorrect information / hallucination,Neutral,4
+21–23,2nd Year,Engineering,Claude,Never,Academic assignments,2,3 — Neutral,Often,Very often,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Once a day,Research,4,4,Sometimes,Sometimes,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,Microsoft Copilot,Several times a week,Coding/programming,4,4,Often,Never,Very confident,No major concern,Strongly Disagree,4
+21–23,1st Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,Postgraduate,Computer Science / IT,ChatGPT,Once a day,Research,5 — A lot,3 — Neutral,Often,Often,Moderately confident,Academic cheating/plagiarism,Neutral,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Rarely,Understanding concepts,2,3 — Neutral,Often,Never,Moderately confident,Over-dependence on AI,Neutral,3 — Moderately useful
+Above 26,4th Year,Engineering,Google Gemini,Several times a day,Research,5 — A lot,4,Sometimes,Sometimes,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+24–26,2nd Year,Computer Science / IT,ChatGPT,Never,Academic assignments,2,3 — Neutral,Always,Sometimes,Slightly confident,Lack of originality,Neutral,2
+21–23,1st Year,Arts / Humanities,Meta AI,Once a day,Understanding concepts,4,3 — Neutral,Rarely,Never,Moderately confident,No major concern,Strongly Disagree,4
+18–20,Postgraduate,Medical / Health Sciences,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Rarely,Very confident,Lack of originality,Disagree,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Rarely,Academic assignments,2,3 — Neutral,Never,Never,Moderately confident,Lack of originality,Disagree,2
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Several times a day,Understanding concepts,3 — Moderately,4,Rarely,Rarely,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Google Gemini,Rarely,Writing/grammar,3 — Moderately,3 — Neutral,Always,Very often,Very confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,4th Year,Medical / Health Sciences,ChatGPT,Several times a week,Personal use,4,4,Always,Sometimes,Very confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Other,ChatGPT,Once a week,Research,4,4,Often,Often,Moderately confident,Reduced critical thinking,Disagree,4
+Above 26,4th Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,4,5 — Trust completely,Often,Sometimes,Extremely confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Science,ChatGPT,Several times a week,Research,5 — A lot,4,Rarely,Never,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+18–20,1st Year,Other,ChatGPT,Several times a week,Exam preparation,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Extremely confident,Incorrect information / hallucination,Agree,4
+18–20,Postgraduate,Medical / Health Sciences,Other,Several times a week,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Rarely,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Other,ChatGPT,Several times a day,Presentations,4,4,Sometimes,Never,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Once a day,Academic assignments,3 — Moderately,4,Sometimes,Rarely,Very confident,Lack of originality,Strongly Disagree,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,Other,Once a week,Academic assignments,4,3 — Neutral,Sometimes,Sometimes,Moderately confident,Reduced critical thinking,Neutral,4
+18–20,Postgraduate,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Sometimes,Often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Moderately confident,Lack of originality,Neutral,4
+18–20,1st Year,Management / Commerce,Google Gemini,Never,Understanding concepts,2,1 — Do not trust at all,Often,Often,Moderately confident,Lack of originality,Strongly Disagree,2
+21–23,2nd Year,Engineering,Meta AI,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Rarely,Rarely,Extremely confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,1st Year,Management / Commerce,Google Gemini,Several times a day,Understanding concepts,4,4,Sometimes,Never,Very confident,Job replacement,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Science,Other,Several times a day,Understanding concepts,5 — A lot,3 — Neutral,Always,Often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,4,Rarely,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Science,Other,Once a week,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Rarely,Very confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Arts / Humanities,Claude,Several times a week,Writing/grammar,4,3 — Neutral,Sometimes,Never,Slightly confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Engineering,Meta AI,Once a day,Academic assignments,4,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Writing/grammar,3 — Moderately,4,Often,Often,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,3rd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,2,2,Sometimes,Never,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+Below 18,3rd Year,Other,Google Gemini,Once a day,Exam preparation,4,5 — Trust completely,Often,Very often,Moderately confident,Privacy,Disagree,4
+21–23,3rd Year,Science,Google Gemini,Several times a week,Exam preparation,4,5 — Trust completely,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,4
+21–23,Postgraduate,Engineering,Google Gemini,Rarely,Academic assignments,3 — Moderately,1 — Do not trust at all,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,2nd Year,Computer Science / IT,Meta AI,Several times a week,Academic assignments,4,4,Sometimes,Sometimes,Extremely confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+21–23,1st Year,Computer Science / IT,Google Gemini,Several times a week,Personal use,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Moderately confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,ChatGPT,Once a day,Coding/programming,4,4,Sometimes,Never,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Other,ChatGPT,Several times a day,Writing/grammar,5 — A lot,4,Sometimes,Sometimes,Extremely confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Science,ChatGPT,Once a day,Academic assignments,4,5 — Trust completely,Often,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Sometimes,Sometimes,Very confident,Privacy,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Arts / Humanities,ChatGPT,Never,Understanding concepts,2,2,Often,Sometimes,Slightly confident,Other,Neutral,1 — Not useful
+18–20,4th Year,Engineering,Claude,Once a day,Presentations,5 — A lot,4,Often,Not sure,Slightly confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,Postgraduate,Arts / Humanities,Google Gemini,Once a week,Understanding concepts,1 — Not at all,4,Always,Rarely,Moderately confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Computer Science / IT,Google Gemini,Several times a day,Writing/grammar,5 — A lot,3 — Neutral,Sometimes,Sometimes,Very confident,Privacy,Disagree,4
+21–23,3rd Year,Management / Commerce,ChatGPT,Once a day,Writing/grammar,5 — A lot,3 — Neutral,Rarely,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,4
+21–23,2nd Year,Medical / Health Sciences,Google Gemini,Several times a week,Academic assignments,3 — Moderately,5 — Trust completely,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,Postgraduate,Computer Science / IT,Claude,Once a day,Understanding concepts,4,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,2nd Year,Science,Perplexity,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Never,Not sure,Extremely confident,Over-dependence on AI,Neutral,3 — Moderately useful
+18–20,4th Year,Other,Google Gemini,Rarely,Coding/programming,2,3 — Neutral,Rarely,Never,Not at all confident,Reduced critical thinking,Disagree,2
+18–20,2nd Year,Computer Science / IT,Claude,Rarely,Coding/programming,3 — Moderately,4,Often,Often,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,3 — Moderately,4,Often,Often,Slightly confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,Perplexity,Several times a day,Research,5 — A lot,3 — Neutral,Sometimes,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,3 — Moderately,2,Sometimes,Not sure,Moderately confident,No major concern,Neutral,3 — Moderately useful
+18–20,2nd Year,Engineering,ChatGPT,Several times a week,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,3rd Year,Science,ChatGPT,Once a day,Research,4,4,Rarely,Never,Moderately confident,Lack of originality,Disagree,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Several times a day,Understanding concepts,5 — A lot,3 — Neutral,Always,Sometimes,Extremely confident,No major concern,Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Google Gemini,Several times a day,Research,3 — Moderately,5 — Trust completely,Often,Sometimes,Extremely confident,Lack of originality,Disagree,5 — Extremely useful
+21–23,2nd Year,Arts / Humanities,Google Gemini,Once a day,Understanding concepts,4,3 — Neutral,Sometimes,Never,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Engineering,ChatGPT,Rarely,Understanding concepts,4,4,Rarely,Never,Slightly confident,Over-dependence on AI,Disagree,4
+21–23,1st Year,Arts / Humanities,ChatGPT,Once a week,Academic assignments,2,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Reduced critical thinking,Disagree,2
+18–20,3rd Year,Engineering,Perplexity,Rarely,Coding/programming,1 — Not at all,3 — Neutral,Never,Sometimes,Moderately confident,Privacy,Strongly Disagree,2
+21–23,3rd Year,Other,ChatGPT,Several times a day,Writing/grammar,5 — A lot,5 — Trust completely,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,Meta AI,Several times a week,Understanding concepts,5 — A lot,3 — Neutral,Often,Often,Slightly confident,Other,Disagree,5 — Extremely useful
+Below 18,1st Year,Computer Science / IT,ChatGPT,Once a day,Exam preparation,4,5 — Trust completely,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,2nd Year,Medical / Health Sciences,Google Gemini,Several times a week,Presentations,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,1st Year,Engineering,Google Gemini,Once a day,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Very confident,No major concern,Neutral,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,Claude,Once a day,Research,4,4,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Always,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,Perplexity,Once a day,Other,3 — Moderately,4,Sometimes,Rarely,Moderately confident,Academic cheating/plagiarism,Disagree,4
+18–20,3rd Year,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Very confident,Job replacement,Disagree,5 — Extremely useful
+21–23,1st Year,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,4,3 — Neutral,Rarely,Never,Moderately confident,Lack of originality,Neutral,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,1st Year,Engineering,ChatGPT,Rarely,Understanding concepts,3 — Moderately,2,Often,Rarely,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,ChatGPT,Several times a week,Research,4,5 — Trust completely,Often,Often,Very confident,Privacy,Disagree,4
+21–23,3rd Year,Engineering,ChatGPT,Once a week,Coding/programming,4,3 — Neutral,Always,Sometimes,Slightly confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,4,Often,Rarely,Slightly confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Google Gemini,Once a week,Coding/programming,2,3 — Neutral,Rarely,Never,Moderately confident,No major concern,Neutral,3 — Moderately useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Once a week,Presentations,2,3 — Neutral,Often,Often,Slightly confident,Academic cheating/plagiarism,Disagree,4
+Above 26,3rd Year,Engineering,ChatGPT,Rarely,Exam preparation,2,4,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,4
+24–26,Postgraduate,Management / Commerce,ChatGPT,Several times a week,Research,4,5 — Trust completely,Often,Never,Moderately confident,Reduced critical thinking,Disagree,4
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a day,Understanding concepts,4,5 — Trust completely,Often,Often,Extremely confident,Over-dependence on AI,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Often,Often,Slightly confident,Over-dependence on AI,Disagree,5 — Extremely useful
+Above 26,3rd Year,Computer Science / IT,Google Gemini,Several times a week,Exam preparation,4,4,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,2nd Year,Engineering,ChatGPT,Several times a day,Writing/grammar,5 — A lot,4,Rarely,Never,Extremely confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,Postgraduate,Engineering,Perplexity,Once a day,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,No major concern,Strongly Disagree,4
+18–20,2nd Year,Arts / Humanities,ChatGPT,Several times a day,Presentations,5 — A lot,3 — Neutral,Rarely,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Engineering,ChatGPT,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Often,Moderately confident,Privacy,Disagree,2
+18–20,1st Year,Engineering,Perplexity,Several times a day,Research,4,5 — Trust completely,Rarely,Rarely,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+24–26,2nd Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,4,2,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,1 — Not at all,3 — Neutral,Often,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,2
+18–20,3rd Year,Engineering,Other,Once a week,Coding/programming,5 — A lot,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Academic cheating/plagiarism,Neutral,3 — Moderately useful
+18–20,2nd Year,Engineering,Meta AI,Once a day,Understanding concepts,5 — A lot,5 — Trust completely,Always,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,4
+21–23,Postgraduate,Engineering,Google Gemini,Several times a week,Personal use,3 — Moderately,3 — Neutral,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,4
+21–23,2nd Year,Science,Google Gemini,Several times a week,Exam preparation,3 — Moderately,4,Rarely,Never,Very confident,Academic cheating/plagiarism,Neutral,4
+21–23,3rd Year,Other,Other,Several times a week,Exam preparation,4,2,Sometimes,Never,Very confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,3rd Year,Computer Science / IT,Meta AI,Once a day,Research,4,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Management / Commerce,ChatGPT,Never,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Never,Not at all confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+21–23,2nd Year,Science,ChatGPT,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,ChatGPT,Once a week,Coding/programming,3 — Moderately,2,Often,Often,Moderately confident,No major concern,Neutral,4
+21–23,4th Year,Science,ChatGPT,Several times a week,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Not sure,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Management / Commerce,Google Gemini,Once a day,Understanding concepts,5 — A lot,4,Often,Very often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,4th Year,Medical / Health Sciences,ChatGPT,Once a week,Presentations,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Privacy,Disagree,2
+18–20,Postgraduate,Other,ChatGPT,Several times a day,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a week,Understanding concepts,5 — A lot,4,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,4,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Sometimes,Never,Very confident,Reduced critical thinking,Disagree,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Research,5 — A lot,5 — Trust completely,Often,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Once a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Slightly confident,Job replacement,Disagree,5 — Extremely useful
+18–20,2nd Year,Other,Meta AI,Once a day,Exam preparation,4,3 — Neutral,Rarely,Never,Very confident,Incorrect information / hallucination,Disagree,4
+24–26,3rd Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,2,2,Sometimes,Sometimes,Slightly confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,2nd Year,Engineering,Google Gemini,Once a week,Exam preparation,2,5 — Trust completely,Sometimes,Sometimes,Very confident,Reduced critical thinking,Disagree,2
+18–20,2nd Year,Arts / Humanities,ChatGPT,Once a week,Understanding concepts,2,3 — Neutral,Rarely,Rarely,Not at all confident,Reduced critical thinking,Disagree,4
+21–23,3rd Year,Engineering,ChatGPT,Once a day,Research,4,5 — Trust completely,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+Below 18,2nd Year,Engineering,ChatGPT,Once a week,Academic assignments,3 — Moderately,4,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+24–26,1st Year,Other,ChatGPT,Rarely,Understanding concepts,4,3 — Neutral,Rarely,Never,Very confident,Job replacement,Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Writing/grammar,5 — A lot,4,Rarely,Rarely,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,4th Year,Computer Science / IT,Google Gemini,Once a day,Coding/programming,3 — Moderately,5 — Trust completely,Often,Sometimes,Very confident,Academic cheating/plagiarism,Neutral,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Once a day,Understanding concepts,4,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Other,ChatGPT,Once a day,Presentations,5 — A lot,4,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,4,4,Sometimes,Very often,Moderately confident,Job replacement,Disagree,2
+24–26,4th Year,Engineering,Google Gemini,Several times a week,Coding/programming,4,4,Rarely,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a week,Other,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Reduced critical thinking,Disagree,4
+18–20,1st Year,Engineering,ChatGPT,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Rarely,Sometimes,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Medical / Health Sciences,ChatGPT,Several times a day,Exam preparation,4,4,Sometimes,Very often,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Engineering,ChatGPT,Once a day,Coding/programming,4,4,Sometimes,Sometimes,Very confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,2nd Year,Other,ChatGPT,Once a week,Exam preparation,5 — A lot,3 — Neutral,Always,Very often,Moderately confident,Privacy,Neutral,4
+18–20,Postgraduate,Computer Science / IT,Other,Several times a week,Coding/programming,4,3 — Neutral,Sometimes,Never,Moderately confident,Privacy,Disagree,4
+Below 18,1st Year,Engineering,Other,Once a day,Research,4,5 — Trust completely,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Arts / Humanities,Other,Once a week,Understanding concepts,3 — Moderately,5 — Trust completely,Often,Often,Very confident,Lack of originality,Disagree,4
+24–26,2nd Year,Engineering,ChatGPT,Several times a day,Writing/grammar,4,5 — Trust completely,Sometimes,Sometimes,Moderately confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Once a day,Understanding concepts,3 — Moderately,4,Sometimes,Never,Extremely confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,Postgraduate,Arts / Humanities,ChatGPT,Once a day,Other,5 — A lot,4,Sometimes,Not sure,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Engineering,ChatGPT,Never,Understanding concepts,3 — Moderately,4,Rarely,Never,Moderately confident,Other,Disagree,4
+21–23,1st Year,Engineering,ChatGPT,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Always,Never,Slightly confident,Over-dependence on AI,Neutral,5 — Extremely useful
+18–20,1st Year,Other,ChatGPT,Several times a week,Presentations,3 — Moderately,3 — Neutral,Sometimes,Often,Slightly confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Very often,Very confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Once a day,Understanding concepts,4,4,Rarely,Not sure,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a week,Research,3 — Moderately,5 — Trust completely,Sometimes,Often,Slightly confident,Incorrect information / hallucination,Neutral,4
+18–20,3rd Year,Engineering,Google Gemini,Once a day,Academic assignments,3 — Moderately,3 — Neutral,Rarely,Never,Very confident,Over-dependence on AI,Disagree,4
+24–26,1st Year,Computer Science / IT,ChatGPT,Rarely,Academic assignments,4,4,Often,Very often,Very confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Management / Commerce,Claude,Once a week,Coding/programming,4,5 — Trust completely,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,4,Sometimes,Sometimes,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Never,Understanding concepts,3 — Moderately,2,Often,Often,Moderately confident,Reduced critical thinking,Disagree,2
+21–23,3rd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,5 — Trust completely,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,4
+21–23,3rd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Often,Often,Very confident,Over-dependence on AI,Disagree,4
+18–20,3rd Year,Science,ChatGPT,Rarely,Academic assignments,2,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+24–26,Postgraduate,Engineering,Google Gemini,Once a day,Research,4,3 — Neutral,Sometimes,Never,Very confident,Academic cheating/plagiarism,Neutral,5 — Extremely useful
+18–20,Postgraduate,Engineering,ChatGPT,Rarely,Research,3 — Moderately,5 — Trust completely,Sometimes,Never,Not at all confident,Incorrect information / hallucination,Disagree,2
+18–20,3rd Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,4,5 — Trust completely,Sometimes,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Management / Commerce,Meta AI,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+24–26,4th Year,Computer Science / IT,ChatGPT,Once a week,Exam preparation,3 — Moderately,2,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Medical / Health Sciences,Google Gemini,Several times a week,Research,3 — Moderately,5 — Trust completely,Often,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,4
+18–20,2nd Year,Engineering,Google Gemini,Several times a week,Understanding concepts,2,3 — Neutral,Often,Never,Very confident,Academic cheating/plagiarism,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Rarely,Never,Very confident,Lack of originality,Disagree,5 — Extremely useful
+Above 26,2nd Year,Engineering,ChatGPT,Several times a day,Understanding concepts,5 — A lot,3 — Neutral,Often,Sometimes,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+24–26,1st Year,Computer Science / IT,ChatGPT,Once a day,Writing/grammar,5 — A lot,3 — Neutral,Rarely,Never,Moderately confident,No major concern,Neutral,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,Microsoft Copilot,Once a day,Presentations,4,3 — Neutral,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,4
+24–26,2nd Year,Science,ChatGPT,Several times a week,Personal use,3 — Moderately,3 — Neutral,Rarely,Never,Not at all confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+24–26,4th Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,4,Rarely,Never,Very confident,No major concern,Strongly Disagree,4
+18–20,4th Year,Arts / Humanities,ChatGPT,Once a day,Understanding concepts,4,4,Sometimes,Sometimes,Moderately confident,Lack of originality,Strongly Disagree,4
+18–20,4th Year,Medical / Health Sciences,Perplexity,Rarely,Academic assignments,3 — Moderately,3 — Neutral,Never,Never,Moderately confident,Reduced critical thinking,Neutral,3 — Moderately useful
+21–23,2nd Year,Management / Commerce,Claude,Once a day,Understanding concepts,4,3 — Neutral,Always,Never,Very confident,Privacy,Neutral,5 — Extremely useful
+21–23,2nd Year,Science,Meta AI,Several times a week,Understanding concepts,4,4,Often,Sometimes,Slightly confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,4th Year,Science,Google Gemini,Once a day,Research,3 — Moderately,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,4th Year,Other,Google Gemini,Once a day,Academic assignments,5 — A lot,4,Often,Sometimes,Extremely confident,Job replacement,Disagree,4
+21–23,3rd Year,Engineering,ChatGPT,Once a week,Presentations,3 — Moderately,4,Rarely,Never,Moderately confident,Privacy,Strongly Disagree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,Meta AI,Several times a week,Academic assignments,4,2,Often,Very often,Moderately confident,Incorrect information / hallucination,Disagree,4
+24–26,1st Year,Engineering,Google Gemini,Several times a day,Academic assignments,4,5 — Trust completely,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Rarely,Exam preparation,2,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,Google Gemini,Once a week,Research,3 — Moderately,4,Often,Very often,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,1st Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Sometimes,Slightly confident,Academic cheating/plagiarism,Neutral,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,3 — Moderately,4,Sometimes,Sometimes,Very confident,Lack of originality,Strongly Disagree,2
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Rarely,Understanding concepts,4,4,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,1st Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+24–26,1st Year,Computer Science / IT,Perplexity,Several times a week,Coding/programming,4,5 — Trust completely,Sometimes,Often,Slightly confident,Incorrect information / hallucination,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,5 — A lot,3 — Neutral,Rarely,Sometimes,Very confident,Privacy,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Claude,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Never,Very confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Computer Science / IT,ChatGPT,Once a day,Understanding concepts,4,4,Often,Never,Slightly confident,Privacy,Strongly Disagree,4
+Above 26,3rd Year,Computer Science / IT,Claude,Several times a day,Research,5 — A lot,5 — Trust completely,Sometimes,Never,Moderately confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Research,4,3 — Neutral,Rarely,Very often,Extremely confident,Other,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,Meta AI,Once a week,Academic assignments,4,4,Rarely,Never,Moderately confident,Lack of originality,Strongly Disagree,4
+Below 18,1st Year,Engineering,ChatGPT,Once a week,Academic assignments,2,3 — Neutral,Sometimes,Never,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,ChatGPT,Once a day,Coding/programming,3 — Moderately,4,Sometimes,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Once a day,Writing/grammar,4,4,Sometimes,Sometimes,Extremely confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Engineering,ChatGPT,Several times a week,Research,4,3 — Neutral,Often,Never,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Research,4,4,Sometimes,Often,Very confident,Job replacement,Disagree,4
+18–20,1st Year,Computer Science / IT,Microsoft Copilot,Rarely,Coding/programming,4,3 — Neutral,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,2nd Year,Computer Science / IT,Meta AI,Rarely,Understanding concepts,4,3 — Neutral,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Science,Google Gemini,Rarely,Research,4,3 — Neutral,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,2nd Year,Other,Google Gemini,Once a week,Understanding concepts,4,3 — Neutral,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+21–23,4th Year,Medical / Health Sciences,ChatGPT,Rarely,Exam preparation,2,5 — Trust completely,Often,Sometimes,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,3rd Year,Engineering,Claude,Several times a week,Academic assignments,4,5 — Trust completely,Often,Never,Very confident,Incorrect information / hallucination,Agree,4
+21–23,4th Year,Engineering,Perplexity,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Several times a day,Coding/programming,3 — Moderately,5 — Trust completely,Always,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,2nd Year,Science,Meta AI,Once a day,Coding/programming,4,2,Often,Often,Very confident,Job replacement,Disagree,4
+24–26,1st Year,Science,ChatGPT,Once a day,Research,5 — A lot,2,Sometimes,Very often,Slightly confident,Incorrect information / hallucination,Disagree,4
+18–20,1st Year,Arts / Humanities,Claude,Several times a day,Coding/programming,5 — A lot,4,Sometimes,Often,Slightly confident,Incorrect information / hallucination,Disagree,4
+18–20,4th Year,Medical / Health Sciences,Other,Rarely,Personal use,4,2,Sometimes,Very often,Moderately confident,Privacy,Disagree,4
+18–20,1st Year,Engineering,Google Gemini,Once a day,Exam preparation,4,4,Sometimes,Very often,Moderately confident,Privacy,Disagree,4
+21–23,1st Year,Science,ChatGPT,Rarely,Presentations,5 — A lot,3 — Neutral,Never,Never,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+24–26,1st Year,Arts / Humanities,Google Gemini,Once a week,Writing/grammar,3 — Moderately,4,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+18–20,1st Year,Engineering,ChatGPT,Several times a week,Research,4,3 — Neutral,Sometimes,Very often,Extremely confident,No major concern,Strongly Disagree,4
+24–26,4th Year,Medical / Health Sciences,Claude,Several times a week,Research,3 — Moderately,4,Often,Very often,Very confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+Below 18,2nd Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,5 — A lot,4,Sometimes,Not sure,Extremely confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,Postgraduate,Other,Google Gemini,Several times a week,Understanding concepts,3 — Moderately,4,Often,Often,Very confident,Other,Disagree,4
+21–23,1st Year,Science,Perplexity,Once a day,Research,4,4,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Rarely,Academic assignments,4,4,Often,Very often,Moderately confident,Job replacement,Disagree,4
+18–20,2nd Year,Management / Commerce,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Google Gemini,Once a day,Exam preparation,5 — A lot,5 — Trust completely,Sometimes,Sometimes,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+Above 26,4th Year,Science,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Often,Not at all confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,Postgraduate,Arts / Humanities,ChatGPT,Several times a week,Research,4,4,Sometimes,Sometimes,Moderately confident,Privacy,Strongly Disagree,4
+24–26,4th Year,Management / Commerce,ChatGPT,Several times a week,Writing/grammar,4,4,Often,Very often,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+21–23,1st Year,Arts / Humanities,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Neutral,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Several times a day,Presentations,5 — A lot,5 — Trust completely,Often,Often,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,3rd Year,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Extremely confident,Academic cheating/plagiarism,Neutral,4
+Below 18,2nd Year,Engineering,ChatGPT,Once a day,Presentations,5 — A lot,2,Sometimes,Never,Very confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a day,Research,5 — A lot,1 — Do not trust at all,Often,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Rarely,Moderately confident,No major concern,Disagree,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,5 — A lot,5 — Trust completely,Often,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,Microsoft Copilot,Once a day,Understanding concepts,5 — A lot,5 — Trust completely,Often,Very often,Very confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,5 — A lot,4,Sometimes,Sometimes,Moderately confident,Over-dependence on AI,Disagree,4
+21–23,1st Year,Medical / Health Sciences,Google Gemini,Once a day,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Very often,Slightly confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+24–26,1st Year,Computer Science / IT,Meta AI,Once a day,Other,4,4,Often,Never,Moderately confident,Academic cheating/plagiarism,Disagree,4
+21–23,3rd Year,Medical / Health Sciences,Google Gemini,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,Google Gemini,Several times a day,Exam preparation,5 — A lot,3 — Neutral,Sometimes,Often,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Academic assignments,4,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,ChatGPT,Rarely,Other,3 — Moderately,5 — Trust completely,Rarely,Rarely,Slightly confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,4,Often,Often,Extremely confident,Privacy,Strongly Disagree,5 — Extremely useful
+24–26,4th Year,Computer Science / IT,Claude,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Always,Often,Moderately confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,Claude,Several times a day,Coding/programming,4,3 — Neutral,Sometimes,Sometimes,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,4,5 — Trust completely,Often,Not sure,Moderately confident,No major concern,Strongly Disagree,4
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Exam preparation,3 — Moderately,4,Always,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,4
+21–23,3rd Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,4,3 — Neutral,Sometimes,Sometimes,Slightly confident,Other,Strongly Disagree,4
+21–23,2nd Year,Engineering,Google Gemini,Once a week,Coding/programming,3 — Moderately,4,Rarely,Never,Slightly confident,Lack of originality,Strongly Disagree,4
+18–20,3rd Year,Arts / Humanities,Google Gemini,Several times a day,Writing/grammar,5 — A lot,4,Often,Never,Slightly confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Microsoft Copilot,Once a week,Coding/programming,3 — Moderately,4,Never,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+21–23,1st Year,Other,Perplexity,Once a day,Academic assignments,5 — A lot,3 — Neutral,Often,Often,Extremely confident,Other,Strongly Disagree,4
+18–20,1st Year,Science,ChatGPT,Once a day,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Other,Google Gemini,Several times a day,Academic assignments,5 — A lot,4,Often,Never,Very confident,Job replacement,Disagree,5 — Extremely useful
+18–20,4th Year,Arts / Humanities,Google Gemini,Never,Academic assignments,2,4,Sometimes,Sometimes,Very confident,Reduced critical thinking,Strongly Disagree,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Sometimes,Never,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Engineering,Meta AI,Once a week,Personal use,3 — Moderately,3 — Neutral,Often,Never,Very confident,Job replacement,Neutral,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Rarely,Very often,Very confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,2nd Year,Arts / Humanities,Microsoft Copilot,Once a week,Writing/grammar,3 — Moderately,4,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Neutral,3 — Moderately useful
+18–20,3rd Year,Management / Commerce,Google Gemini,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,4
+18–20,Postgraduate,Computer Science / IT,Meta AI,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Rarely,Very confident,Job replacement,Disagree,4
+Below 18,1st Year,Medical / Health Sciences,Google Gemini,Once a day,Coding/programming,4,4,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,4,4,Sometimes,Often,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,Claude,Several times a week,Understanding concepts,3 — Moderately,2,Always,Very often,Slightly confident,Job replacement,Strongly Disagree,4
+18–20,1st Year,Science,Microsoft Copilot,Once a day,Coding/programming,5 — A lot,4,Sometimes,Sometimes,Very confident,Privacy,Neutral,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Always,Sometimes,Extremely confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Management / Commerce,Microsoft Copilot,Once a day,Other,3 — Moderately,4,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+18–20,1st Year,Arts / Humanities,ChatGPT,Once a day,Understanding concepts,3 — Moderately,4,Always,Sometimes,Slightly confident,Lack of originality,Disagree,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,4,4,Often,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,Perplexity,Several times a day,Academic assignments,5 — A lot,4,Sometimes,Never,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Computer Science / IT,ChatGPT,Rarely,Understanding concepts,3 — Moderately,2,Sometimes,Often,Moderately confident,Other,Neutral,3 — Moderately useful
+21–23,1st Year,Management / Commerce,ChatGPT,Once a day,Writing/grammar,5 — A lot,4,Sometimes,Rarely,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Other,Never,Academic assignments,2,4,Rarely,Never,Slightly confident,Job replacement,Disagree,4
+18–20,2nd Year,Medical / Health Sciences,Claude,Rarely,Research,3 — Moderately,2,Rarely,Never,Moderately confident,Privacy,Disagree,3 — Moderately useful
+18–20,2nd Year,Medical / Health Sciences,Perplexity,Several times a day,Understanding concepts,4,4,Sometimes,Often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,3 — Moderately,2,Often,Never,Moderately confident,Academic cheating/plagiarism,Disagree,2
+21–23,2nd Year,Engineering,Other,Several times a week,Personal use,4,5 — Trust completely,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,2,3 — Neutral,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,3rd Year,Science,Google Gemini,Several times a day,Exam preparation,4,4,Rarely,Rarely,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,1st Year,Engineering,ChatGPT,Once a day,Understanding concepts,3 — Moderately,4,Rarely,Very often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,4th Year,Computer Science / IT,Claude,Several times a day,Personal use,5 — A lot,3 — Neutral,Rarely,Never,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,Meta AI,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Sometimes,Very confident,Over-dependence on AI,Disagree,4
+21–23,1st Year,Other,Microsoft Copilot,Never,Academic assignments,3 — Moderately,2,Always,Not sure,Moderately confident,Over-dependence on AI,Disagree,2
+18–20,1st Year,Engineering,Google Gemini,Several times a week,Writing/grammar,2,3 — Neutral,Sometimes,Sometimes,Moderately confident,Lack of originality,Strongly Disagree,4
+24–26,1st Year,Medical / Health Sciences,ChatGPT,Once a week,Understanding concepts,2,5 — Trust completely,Sometimes,Sometimes,Slightly confident,Over-dependence on AI,Disagree,4
+18–20,3rd Year,Engineering,Google Gemini,Never,Personal use,3 — Moderately,2,Rarely,Never,Not at all confident,Incorrect information / hallucination,Strongly Disagree,2
+21–23,1st Year,Medical / Health Sciences,Google Gemini,Several times a week,Other,2,4,Always,Often,Moderately confident,Other,Neutral,4
+24–26,4th Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,5 — A lot,4,Often,Very often,Very confident,Lack of originality,Strongly Disagree,4
+Above 26,4th Year,Computer Science / IT,Google Gemini,Rarely,Research,1 — Not at all,4,Always,Sometimes,Slightly confident,Reduced critical thinking,Disagree,2
+21–23,4th Year,Medical / Health Sciences,Perplexity,Once a day,Research,5 — A lot,3 — Neutral,Sometimes,Very often,Moderately confident,Job replacement,Strongly Disagree,4
+21–23,3rd Year,Other,Google Gemini,Several times a day,Presentations,4,4,Always,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,Postgraduate,Engineering,Claude,Several times a week,Presentations,4,4,Sometimes,Sometimes,Not at all confident,Job replacement,Strongly Disagree,4
+21–23,1st Year,Engineering,ChatGPT,Rarely,Coding/programming,5 — A lot,5 — Trust completely,Rarely,Never,Not at all confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,Google Gemini,Once a day,Understanding concepts,2,5 — Trust completely,Often,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+21–23,2nd Year,Engineering,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Sometimes,Often,Extremely confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,Postgraduate,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,3 — Moderately,5 — Trust completely,Often,Sometimes,Extremely confident,Job replacement,Disagree,4
+21–23,3rd Year,Medical / Health Sciences,ChatGPT,Several times a day,Exam preparation,5 — A lot,5 — Trust completely,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,4,3 — Neutral,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Science,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Often,Slightly confident,Incorrect information / hallucination,Disagree,4
+21–23,Postgraduate,Computer Science / IT,Microsoft Copilot,Rarely,Understanding concepts,2,3 — Neutral,Always,Very often,Slightly confident,Reduced critical thinking,Neutral,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,5 — A lot,4,Often,Never,Slightly confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Once a day,Presentations,3 — Moderately,4,Sometimes,Never,Moderately confident,Privacy,Neutral,5 — Extremely useful
+18–20,Postgraduate,Engineering,ChatGPT,Once a day,Academic assignments,5 — A lot,3 — Neutral,Sometimes,Rarely,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a day,Writing/grammar,4,5 — Trust completely,Sometimes,Never,Very confident,Job replacement,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Research,3 — Moderately,3 — Neutral,Often,Not sure,Very confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+18–20,3rd Year,Other,ChatGPT,Once a week,Personal use,4,3 — Neutral,Never,Never,Slightly confident,No major concern,Strongly Disagree,4
+18–20,1st Year,Science,Google Gemini,Several times a week,Academic assignments,4,5 — Trust completely,Sometimes,Rarely,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,2nd Year,Medical / Health Sciences,ChatGPT,Once a day,Personal use,5 — A lot,4,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Meta AI,Several times a week,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Rarely,Slightly confident,Academic cheating/plagiarism,Disagree,4
+21–23,1st Year,Engineering,ChatGPT,Several times a day,Writing/grammar,4,3 — Neutral,Rarely,Not sure,Slightly confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Sometimes,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+24–26,3rd Year,Engineering,ChatGPT,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Academic cheating/plagiarism,Disagree,4
+24–26,2nd Year,Computer Science / IT,Google Gemini,Once a week,Coding/programming,4,4,Rarely,Never,Not at all confident,Lack of originality,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Rarely,Understanding concepts,3 — Moderately,2,Often,Not sure,Slightly confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,Perplexity,Rarely,Coding/programming,3 — Moderately,4,Always,Not sure,Not at all confident,Incorrect information / hallucination,Neutral,1 — Not useful
+21–23,3rd Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,3 — Moderately,4,Sometimes,Never,Very confident,Over-dependence on AI,Disagree,3 — Moderately useful
+21–23,Postgraduate,Engineering,Google Gemini,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,Postgraduate,Computer Science / IT,ChatGPT,Several times a week,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,5 — A lot,4,Sometimes,Sometimes,Extremely confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Several times a day,Academic assignments,4,4,Rarely,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,2nd Year,Engineering,Google Gemini,Several times a day,Presentations,4,4,Always,Often,Very confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,ChatGPT,Several times a day,Personal use,4,4,Often,Very often,Very confident,No major concern,Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Other,Once a day,Understanding concepts,3 — Moderately,4,Often,Never,Moderately confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Google Gemini,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Rarely,Moderately confident,No major concern,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Engineering,Other,Once a week,Understanding concepts,4,2,Often,Never,Slightly confident,Academic cheating/plagiarism,Disagree,4
+24–26,2nd Year,Management / Commerce,ChatGPT,Several times a week,Coding/programming,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Lack of originality,Disagree,4
+18–20,2nd Year,Other,Claude,Several times a day,Presentations,5 — A lot,5 — Trust completely,Often,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Google Gemini,Once a week,Coding/programming,1 — Not at all,4,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,1st Year,Medical / Health Sciences,Google Gemini,Once a day,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Not sure,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Arts / Humanities,Other,Several times a day,Academic assignments,4,5 — Trust completely,Sometimes,Never,Very confident,Incorrect information / hallucination,Disagree,4
+18–20,4th Year,Computer Science / IT,Google Gemini,Once a day,Understanding concepts,4,5 — Trust completely,Always,Often,Very confident,Academic cheating/plagiarism,Disagree,4
+24–26,2nd Year,Engineering,Perplexity,Once a day,Exam preparation,4,5 — Trust completely,Often,Never,Very confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,1st Year,Science,Google Gemini,Once a day,Research,4,5 — Trust completely,Always,Sometimes,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+24–26,3rd Year,Other,ChatGPT,Once a week,Research,2,5 — Trust completely,Often,Never,Very confident,Privacy,Disagree,3 — Moderately useful
+21–23,4th Year,Engineering,Google Gemini,Once a week,Understanding concepts,4,5 — Trust completely,Often,Very often,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Google Gemini,Once a week,Presentations,3 — Moderately,4,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Management / Commerce,Meta AI,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Very confident,Other,Strongly Disagree,4
+21–23,Postgraduate,Computer Science / IT,Claude,Once a week,Exam preparation,2,3 — Neutral,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+24–26,3rd Year,Science,ChatGPT,Several times a week,Presentations,3 — Moderately,4,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,ChatGPT,Once a day,Coding/programming,4,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Science,ChatGPT,Several times a week,Presentations,5 — A lot,4,Often,Never,Moderately confident,No major concern,Neutral,5 — Extremely useful
+18–20,Postgraduate,Arts / Humanities,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Slightly confident,Job replacement,Neutral,3 — Moderately useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Several times a week,Writing/grammar,3 — Moderately,4,Always,Often,Very confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,Postgraduate,Management / Commerce,Google Gemini,Several times a day,Academic assignments,5 — A lot,2,Often,Sometimes,Extremely confident,No major concern,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Science,Google Gemini,Several times a week,Coding/programming,4,5 — Trust completely,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,4
+21–23,1st Year,Arts / Humanities,Claude,Several times a day,Understanding concepts,5 — A lot,4,Sometimes,Never,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Never,Never,Not at all confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,Google Gemini,Several times a day,Academic assignments,2,5 — Trust completely,Always,Very often,Very confident,Academic cheating/plagiarism,Strongly Disagree,4
+21–23,3rd Year,Management / Commerce,ChatGPT,Rarely,Understanding concepts,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Very confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,1st Year,Computer Science / IT,Perplexity,Once a day,Coding/programming,3 — Moderately,5 — Trust completely,Often,Never,Moderately confident,Other,Strongly Disagree,4
+18–20,4th Year,Arts / Humanities,ChatGPT,Once a day,Coding/programming,3 — Moderately,3 — Neutral,Often,Very often,Very confident,No major concern,Disagree,5 — Extremely useful
+21–23,4th Year,Management / Commerce,ChatGPT,Once a day,Understanding concepts,4,5 — Trust completely,Often,Sometimes,Very confident,Privacy,Strongly Disagree,3 — Moderately useful
+24–26,3rd Year,Engineering,ChatGPT,Rarely,Other,3 — Moderately,4,Rarely,Never,Not at all confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,Claude,Several times a week,Personal use,2,4,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,1st Year,Engineering,ChatGPT,Rarely,Academic assignments,3 — Moderately,4,Often,Sometimes,Moderately confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,4th Year,Science,Google Gemini,Once a day,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Never,Extremely confident,Academic cheating/plagiarism,Disagree,4
+21–23,2nd Year,Computer Science / IT,Microsoft Copilot,Several times a day,Coding/programming,5 — A lot,4,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Claude,Several times a week,Research,3 — Moderately,5 — Trust completely,Often,Sometimes,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,2nd Year,Medical / Health Sciences,ChatGPT,Once a day,Understanding concepts,3 — Moderately,2,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,4
+21–23,3rd Year,Science,ChatGPT,Once a week,Writing/grammar,4,4,Often,Very often,Slightly confident,No major concern,Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Rarely,Academic assignments,2,4,Rarely,Never,Moderately confident,Over-dependence on AI,Disagree,2
+24–26,1st Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Neutral,4
+21–23,4th Year,Other,Google Gemini,Never,Understanding concepts,2,2,Sometimes,Sometimes,Slightly confident,Over-dependence on AI,Disagree,2
+18–20,3rd Year,Science,ChatGPT,Several times a week,Research,4,5 — Trust completely,Always,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,3rd Year,Management / Commerce,ChatGPT,Once a day,Presentations,3 — Moderately,4,Sometimes,Rarely,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Engineering,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Often,Sometimes,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,Google Gemini,Several times a day,Academic assignments,5 — A lot,3 — Neutral,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,2,3 — Neutral,Sometimes,Often,Moderately confident,Academic cheating/plagiarism,Disagree,4
+24–26,1st Year,Science,Google Gemini,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Often,Often,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,4,3 — Neutral,Often,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,4th Year,Computer Science / IT,Other,Several times a week,Coding/programming,3 — Moderately,4,Sometimes,Never,Moderately confident,Privacy,Disagree,3 — Moderately useful
+21–23,2nd Year,Science,Google Gemini,Several times a day,Coding/programming,5 — A lot,4,Sometimes,Sometimes,Very confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Other,ChatGPT,Several times a day,Writing/grammar,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Privacy,Disagree,4
+24–26,4th Year,Science,ChatGPT,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Often,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Never,Extremely confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,ChatGPT,Several times a week,Research,5 — A lot,4,Sometimes,Never,Extremely confident,No major concern,Disagree,4
+18–20,Postgraduate,Engineering,ChatGPT,Once a day,Academic assignments,4,4,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+Above 26,3rd Year,Engineering,Perplexity,Once a day,Presentations,4,5 — Trust completely,Often,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Google Gemini,Once a day,Academic assignments,4,5 — Trust completely,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,5 — Extremely useful
+24–26,2nd Year,Engineering,ChatGPT,Once a week,Coding/programming,3 — Moderately,3 — Neutral,Often,Sometimes,Very confident,Privacy,Disagree,3 — Moderately useful
+18–20,2nd Year,Management / Commerce,Google Gemini,Rarely,Personal use,3 — Moderately,2,Sometimes,Sometimes,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+21–23,1st Year,Medical / Health Sciences,ChatGPT,Several times a day,Research,4,4,Sometimes,Never,Very confident,Privacy,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Other,Other,Rarely,Writing/grammar,3 — Moderately,4,Often,Never,Very confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Research,5 — A lot,2,Sometimes,Often,Moderately confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,2nd Year,Engineering,Microsoft Copilot,Several times a week,Academic assignments,4,3 — Neutral,Rarely,Never,Very confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Claude,Once a week,Research,2,3 — Neutral,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,2
+Below 18,4th Year,Engineering,ChatGPT,Once a week,Presentations,2,3 — Neutral,Sometimes,Rarely,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a week,Personal use,4,3 — Neutral,Always,Sometimes,Very confident,No major concern,Disagree,4
+21–23,3rd Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,4,Sometimes,Often,Moderately confident,Privacy,Strongly Disagree,4
+18–20,2nd Year,Science,Perplexity,Several times a week,Understanding concepts,4,2,Sometimes,Sometimes,Very confident,Academic cheating/plagiarism,Strongly Disagree,4
+18–20,3rd Year,Engineering,Google Gemini,Once a day,Writing/grammar,4,3 — Neutral,Often,Not sure,Moderately confident,No major concern,Disagree,5 — Extremely useful
+18–20,1st Year,Medical / Health Sciences,Google Gemini,Several times a day,Research,5 — A lot,4,Often,Often,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Claude,Several times a week,Understanding concepts,4,4,Sometimes,Never,Slightly confident,Over-dependence on AI,Disagree,4
+24–26,2nd Year,Computer Science / IT,Claude,Several times a day,Academic assignments,4,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Once a day,Academic assignments,4,4,Sometimes,Never,Moderately confident,Job replacement,Neutral,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,4,4,Rarely,Rarely,Slightly confident,Reduced critical thinking,Neutral,4
+Above 26,2nd Year,Computer Science / IT,Microsoft Copilot,Once a day,Academic assignments,5 — A lot,4,Always,Sometimes,Moderately confident,Job replacement,Neutral,5 — Extremely useful
+24–26,3rd Year,Other,ChatGPT,Several times a week,Academic assignments,4,4,Often,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Perplexity,Several times a week,Academic assignments,4,3 — Neutral,Often,Never,Very confident,Over-dependence on AI,Neutral,3 — Moderately useful
+21–23,1st Year,Computer Science / IT,ChatGPT,Several times a week,Presentations,3 — Moderately,5 — Trust completely,Often,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,1st Year,Management / Commerce,ChatGPT,Several times a day,Academic assignments,4,5 — Trust completely,Rarely,Sometimes,Moderately confident,No major concern,Disagree,5 — Extremely useful
+Above 26,2nd Year,Engineering,Claude,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Rarely,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,1st Year,Management / Commerce,ChatGPT,Once a day,Coding/programming,5 — A lot,4,Sometimes,Not sure,Moderately confident,Reduced critical thinking,Disagree,4
+21–23,Postgraduate,Engineering,ChatGPT,Once a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Very confident,Reduced critical thinking,Neutral,3 — Moderately useful
+18–20,2nd Year,Arts / Humanities,ChatGPT,Several times a week,Personal use,3 — Moderately,5 — Trust completely,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+24–26,4th Year,Computer Science / IT,Google Gemini,Several times a week,Presentations,4,3 — Neutral,Sometimes,Not sure,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+Below 18,Postgraduate,Engineering,Perplexity,Several times a week,Understanding concepts,4,4,Always,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,1st Year,Management / Commerce,ChatGPT,Rarely,Coding/programming,4,3 — Neutral,Often,Sometimes,Not at all confident,Privacy,Disagree,3 — Moderately useful
+18–20,3rd Year,Arts / Humanities,ChatGPT,Once a week,Understanding concepts,3 — Moderately,5 — Trust completely,Rarely,Rarely,Moderately confident,Other,Disagree,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Several times a week,Academic assignments,4,5 — Trust completely,Often,Never,Moderately confident,Over-dependence on AI,Disagree,4
+18–20,3rd Year,Management / Commerce,Meta AI,Several times a week,Understanding concepts,4,4,Often,Very often,Very confident,Other,Disagree,4
+24–26,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,4,4,Sometimes,Sometimes,Extremely confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Other,Rarely,Academic assignments,2,4,Sometimes,Rarely,Very confident,Over-dependence on AI,Neutral,4
+18–20,1st Year,Computer Science / IT,Perplexity,Once a day,Coding/programming,3 — Moderately,4,Often,Sometimes,Moderately confident,No major concern,Disagree,3 — Moderately useful
+Below 18,3rd Year,Science,ChatGPT,Once a day,Academic assignments,3 — Moderately,5 — Trust completely,Sometimes,Never,Moderately confident,Lack of originality,Strongly Disagree,4
+18–20,Postgraduate,Computer Science / IT,Claude,Never,Personal use,3 — Moderately,3 — Neutral,Rarely,Never,Not at all confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+21–23,Postgraduate,Science,Google Gemini,Once a week,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Often,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,1st Year,Computer Science / IT,Google Gemini,Several times a day,Coding/programming,5 — A lot,4,Often,Sometimes,Very confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,3rd Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Never,Very confident,Job replacement,Disagree,4
+21–23,2nd Year,Arts / Humanities,Claude,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Rarely,Rarely,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Claude,Several times a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Very often,Very confident,Incorrect information / hallucination,Neutral,4
+21–23,1st Year,Computer Science / IT,Claude,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Often,Rarely,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+24–26,Postgraduate,Computer Science / IT,Other,Rarely,Writing/grammar,2,2,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,2
+21–23,4th Year,Arts / Humanities,ChatGPT,Rarely,Personal use,2,3 — Neutral,Sometimes,Sometimes,Slightly confident,Over-dependence on AI,Disagree,3 — Moderately useful
+21–23,1st Year,Computer Science / IT,Claude,Several times a week,Coding/programming,2,5 — Trust completely,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,1st Year,Engineering,Perplexity,Several times a week,Understanding concepts,4,2,Sometimes,Sometimes,Extremely confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Once a day,Writing/grammar,3 — Moderately,5 — Trust completely,Always,Often,Moderately confident,Academic cheating/plagiarism,Disagree,4
+18–20,1st Year,Arts / Humanities,ChatGPT,Several times a day,Writing/grammar,4,4,Sometimes,Never,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,ChatGPT,Once a week,Academic assignments,2,4,Sometimes,Very often,Not at all confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,Perplexity,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Always,Very often,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Other,ChatGPT,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Sometimes,Slightly confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Microsoft Copilot,Once a day,Coding/programming,5 — A lot,4,Often,Sometimes,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,4,5 — Trust completely,Often,Never,Slightly confident,Reduced critical thinking,Neutral,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,4,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,Postgraduate,Engineering,Google Gemini,Once a week,Understanding concepts,2,5 — Trust completely,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,2
+18–20,2nd Year,Medical / Health Sciences,ChatGPT,Once a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Not at all confident,Over-dependence on AI,Strongly Disagree,2
+18–20,1st Year,Management / Commerce,Perplexity,Several times a week,Coding/programming,3 — Moderately,5 — Trust completely,Often,Not sure,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Writing/grammar,4,4,Often,Never,Slightly confident,Reduced critical thinking,Disagree,4
+Above 26,Postgraduate,Computer Science / IT,Meta AI,Once a day,Coding/programming,5 — A lot,2,Sometimes,Sometimes,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Engineering,ChatGPT,Once a week,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,Other,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Never,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,3rd Year,Engineering,Google Gemini,Once a day,Exam preparation,5 — A lot,5 — Trust completely,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Never,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+24–26,Postgraduate,Engineering,ChatGPT,Once a day,Academic assignments,4,5 — Trust completely,Often,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,4
+21–23,4th Year,Engineering,ChatGPT,Several times a day,Understanding concepts,4,4,Sometimes,Not sure,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,Google Gemini,Once a day,Writing/grammar,4,5 — Trust completely,Sometimes,Rarely,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Engineering,Claude,Once a day,Writing/grammar,5 — A lot,4,Sometimes,Not sure,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a day,Exam preparation,4,5 — Trust completely,Often,Sometimes,Moderately confident,Reduced critical thinking,Neutral,5 — Extremely useful
+Above 26,3rd Year,Medical / Health Sciences,ChatGPT,Several times a week,Research,4,4,Rarely,Sometimes,Slightly confident,Academic cheating/plagiarism,Neutral,4
+18–20,3rd Year,Management / Commerce,Google Gemini,Rarely,Coding/programming,2,4,Sometimes,Never,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+21–23,4th Year,Computer Science / IT,Google Gemini,Once a day,Coding/programming,5 — A lot,2,Sometimes,Never,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,Postgraduate,Science,Google Gemini,Several times a week,Understanding concepts,5 — A lot,4,Always,Often,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,3rd Year,Arts / Humanities,ChatGPT,Once a day,Writing/grammar,4,4,Sometimes,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Microsoft Copilot,Once a week,Coding/programming,3 — Moderately,4,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,4
+24–26,2nd Year,Computer Science / IT,Other,Several times a day,Academic assignments,4,5 — Trust completely,Sometimes,Often,Extremely confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Exam preparation,5 — A lot,4,Sometimes,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,4,Often,Often,Very confident,No major concern,Disagree,5 — Extremely useful
+21–23,2nd Year,Science,ChatGPT,Several times a week,Academic assignments,4,5 — Trust completely,Sometimes,Never,Slightly confident,Other,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Other,Google Gemini,Once a week,Understanding concepts,4,2,Sometimes,Very often,Moderately confident,Lack of originality,Disagree,1 — Not useful
+24–26,1st Year,Computer Science / IT,ChatGPT,Several times a week,Exam preparation,3 — Moderately,4,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Disagree,4
+18–20,4th Year,Science,Meta AI,Once a week,Personal use,2,3 — Neutral,Often,Never,Slightly confident,Reduced critical thinking,Neutral,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Once a day,Coding/programming,4,3 — Neutral,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Neutral,4
+18–20,Postgraduate,Management / Commerce,ChatGPT,Several times a day,Personal use,4,5 — Trust completely,Often,Never,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Claude,Several times a day,Presentations,5 — A lot,5 — Trust completely,Always,Very often,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Engineering,ChatGPT,Several times a day,Exam preparation,5 — A lot,5 — Trust completely,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Claude,Once a day,Exam preparation,5 — A lot,4,Sometimes,Never,Very confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,1st Year,Management / Commerce,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Slightly confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,Postgraduate,Other,Google Gemini,Once a day,Exam preparation,4,5 — Trust completely,Always,Very often,Extremely confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Meta AI,Several times a week,Coding/programming,3 — Moderately,4,Often,Sometimes,Moderately confident,Over-dependence on AI,Neutral,4
+21–23,3rd Year,Computer Science / IT,Claude,Several times a week,Research,4,3 — Neutral,Sometimes,Very often,Moderately confident,Over-dependence on AI,Disagree,4
+21–23,Postgraduate,Computer Science / IT,Perplexity,Several times a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Not at all confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Management / Commerce,ChatGPT,Several times a week,Exam preparation,5 — A lot,4,Often,Very often,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,Claude,Once a day,Personal use,4,4,Sometimes,Sometimes,Very confident,Job replacement,Disagree,4
+18–20,1st Year,Arts / Humanities,Google Gemini,Once a day,Understanding concepts,4,3 — Neutral,Sometimes,Sometimes,Extremely confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+21–23,1st Year,Science,Google Gemini,Several times a week,Other,4,2,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Several times a week,Understanding concepts,4,4,Always,Never,Very confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,1st Year,Arts / Humanities,ChatGPT,Once a day,Academic assignments,3 — Moderately,4,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Google Gemini,Once a day,Academic assignments,5 — A lot,4,Sometimes,Not sure,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,4th Year,Management / Commerce,ChatGPT,Once a week,Exam preparation,3 — Moderately,5 — Trust completely,Never,Never,Very confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Microsoft Copilot,Several times a week,Coding/programming,3 — Moderately,3 — Neutral,Often,Very often,Moderately confident,Academic cheating/plagiarism,Disagree,2
+21–23,3rd Year,Engineering,Perplexity,Several times a day,Understanding concepts,3 — Moderately,4,Often,Never,Very confident,Job replacement,Disagree,5 — Extremely useful
+21–23,1st Year,Medical / Health Sciences,Meta AI,Several times a week,Research,4,4,Sometimes,Never,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Management / Commerce,ChatGPT,Rarely,Understanding concepts,4,4,Sometimes,Never,Moderately confident,Privacy,Neutral,5 — Extremely useful
+21–23,3rd Year,Other,Meta AI,Several times a day,Coding/programming,5 — A lot,5 — Trust completely,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Once a week,Presentations,3 — Moderately,2,Rarely,Never,Slightly confident,No major concern,Disagree,3 — Moderately useful
+18–20,Postgraduate,Engineering,ChatGPT,Several times a day,Research,5 — A lot,5 — Trust completely,Sometimes,Rarely,Extremely confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Perplexity,Several times a week,Writing/grammar,4,5 — Trust completely,Sometimes,Never,Moderately confident,Privacy,Neutral,4
+21–23,1st Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,4,Sometimes,Sometimes,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Other,4,4,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Rarely,Understanding concepts,2,4,Often,Sometimes,Moderately confident,Lack of originality,Neutral,2
+18–20,Postgraduate,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,3 — Moderately,4,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,4
+18–20,2nd Year,Medical / Health Sciences,Claude,Rarely,Academic assignments,1 — Not at all,4,Sometimes,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,5 — A lot,4,Rarely,Never,Very confident,Other,Strongly Disagree,4
+24–26,3rd Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,2,2,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Neutral,2
+24–26,1st Year,Science,Google Gemini,Rarely,Writing/grammar,2,4,Always,Rarely,Not at all confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,5 — Trust completely,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,3rd Year,Medical / Health Sciences,Microsoft Copilot,Once a day,Academic assignments,4,4,Sometimes,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Science,Meta AI,Once a week,Research,4,2,Often,Often,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,2nd Year,Computer Science / IT,Claude,Several times a week,Other,5 — A lot,4,Often,Very often,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,2nd Year,Science,Perplexity,Rarely,Understanding concepts,1 — Not at all,3 — Neutral,Sometimes,Sometimes,Moderately confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,4th Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Not sure,Extremely confident,Other,Disagree,5 — Extremely useful
+18–20,1st Year,Science,Claude,Once a day,Understanding concepts,3 — Moderately,4,Always,Very often,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Arts / Humanities,ChatGPT,Several times a day,Coding/programming,5 — A lot,3 — Neutral,Rarely,Never,Extremely confident,Reduced critical thinking,Disagree,4
+21–23,1st Year,Science,ChatGPT,Once a week,Understanding concepts,3 — Moderately,4,Often,Sometimes,Moderately confident,Over-dependence on AI,Neutral,2
+18–20,1st Year,Management / Commerce,Google Gemini,Never,Personal use,2,3 — Neutral,Sometimes,Never,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,ChatGPT,Several times a day,Research,5 — A lot,3 — Neutral,Sometimes,Sometimes,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Perplexity,Once a week,Understanding concepts,3 — Moderately,4,Rarely,Never,Very confident,Privacy,Neutral,4
+18–20,3rd Year,Other,Google Gemini,Rarely,Understanding concepts,4,3 — Neutral,Sometimes,Not sure,Moderately confident,No major concern,Strongly Disagree,4
+18–20,2nd Year,Management / Commerce,Meta AI,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Often,Often,Very confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+21–23,Postgraduate,Management / Commerce,ChatGPT,Several times a day,Personal use,5 — A lot,4,Rarely,Never,Slightly confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+Below 18,3rd Year,Engineering,ChatGPT,Once a week,Understanding concepts,1 — Not at all,3 — Neutral,Rarely,Never,Moderately confident,Lack of originality,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Science,Microsoft Copilot,Several times a week,Understanding concepts,4,3 — Neutral,Rarely,Never,Very confident,Academic cheating/plagiarism,Strongly Disagree,4
+21–23,2nd Year,Other,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Always,Often,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Google Gemini,Once a week,Coding/programming,4,3 — Neutral,Often,Very often,Very confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,Google Gemini,Several times a week,Exam preparation,2,4,Rarely,Never,Very confident,Lack of originality,Strongly Disagree,4
+21–23,2nd Year,Engineering,Other,Rarely,Academic assignments,2,3 — Neutral,Sometimes,Never,Slightly confident,No major concern,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,Microsoft Copilot,Rarely,Academic assignments,2,3 — Neutral,Rarely,Sometimes,Very confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,1st Year,Management / Commerce,ChatGPT,Once a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+24–26,Postgraduate,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,5 — Trust completely,Sometimes,Rarely,Moderately confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+Above 26,2nd Year,Engineering,Google Gemini,Once a day,Personal use,4,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,4th Year,Management / Commerce,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Management / Commerce,ChatGPT,Several times a day,Understanding concepts,3 — Moderately,5 — Trust completely,Sometimes,Rarely,Not at all confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,1st Year,Management / Commerce,ChatGPT,Several times a week,Exam preparation,3 — Moderately,4,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,4th Year,Science,ChatGPT,Several times a day,Writing/grammar,5 — A lot,3 — Neutral,Often,Never,Slightly confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Several times a week,Understanding concepts,4,4,Sometimes,Never,Very confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,4th Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,3 — Moderately,4,Sometimes,Often,Extremely confident,Incorrect information / hallucination,Neutral,4
+Below 18,2nd Year,Management / Commerce,Google Gemini,Once a day,Understanding concepts,4,5 — Trust completely,Often,Very often,Very confident,Academic cheating/plagiarism,Neutral,5 — Extremely useful
+18–20,3rd Year,Engineering,ChatGPT,Once a day,Writing/grammar,5 — A lot,4,Rarely,Rarely,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Management / Commerce,Google Gemini,Several times a week,Writing/grammar,3 — Moderately,3 — Neutral,Often,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Once a week,Research,3 — Moderately,5 — Trust completely,Always,Sometimes,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,Perplexity,Several times a day,Writing/grammar,5 — A lot,5 — Trust completely,Sometimes,Rarely,Extremely confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Once a week,Understanding concepts,4,4,Sometimes,Sometimes,Slightly confident,Over-dependence on AI,Disagree,3 — Moderately useful
+Above 26,3rd Year,Medical / Health Sciences,Google Gemini,Rarely,Understanding concepts,3 — Moderately,4,Sometimes,Never,Not at all confident,Job replacement,Neutral,3 — Moderately useful
+21–23,Postgraduate,Management / Commerce,ChatGPT,Once a day,Academic assignments,4,4,Sometimes,Never,Very confident,Lack of originality,Disagree,4
+21–23,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Exam preparation,4,4,Rarely,Never,Very confident,Job replacement,Strongly Disagree,4
+Above 26,2nd Year,Management / Commerce,ChatGPT,Once a day,Writing/grammar,3 — Moderately,5 — Trust completely,Often,Sometimes,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Perplexity,Several times a day,Understanding concepts,4,4,Often,Rarely,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Perplexity,Several times a week,Academic assignments,3 — Moderately,5 — Trust completely,Sometimes,Never,Very confident,Privacy,Neutral,5 — Extremely useful
+18–20,4th Year,Arts / Humanities,ChatGPT,Several times a day,Writing/grammar,4,5 — Trust completely,Sometimes,Rarely,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Rarely,Exam preparation,3 — Moderately,3 — Neutral,Often,Sometimes,Not at all confident,Over-dependence on AI,Neutral,4
+21–23,1st Year,Management / Commerce,Google Gemini,Rarely,Writing/grammar,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,2
+18–20,4th Year,Engineering,Google Gemini,Once a week,Understanding concepts,3 — Moderately,4,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,1st Year,Engineering,ChatGPT,Several times a week,Presentations,4,3 — Neutral,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,1st Year,Arts / Humanities,Microsoft Copilot,Several times a week,Exam preparation,5 — A lot,4,Sometimes,Never,Moderately confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Google Gemini,Never,Academic assignments,2,3 — Neutral,Often,Not sure,Not at all confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+24–26,4th Year,Engineering,Google Gemini,Once a day,Research,4,4,Sometimes,Very often,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Presentations,4,5 — Trust completely,Sometimes,Never,Extremely confident,Lack of originality,Strongly Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Presentations,4,4,Sometimes,Never,Extremely confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,3 — Moderately,5 — Trust completely,Often,Never,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,Claude,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,1st Year,Engineering,ChatGPT,Several times a day,Understanding concepts,4,4,Sometimes,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,1st Year,Other,Microsoft Copilot,Several times a week,Presentations,4,3 — Neutral,Often,Very often,Very confident,Other,Strongly Disagree,4
+18–20,2nd Year,Engineering,Claude,Once a day,Research,4,5 — Trust completely,Sometimes,Often,Extremely confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Microsoft Copilot,Once a day,Academic assignments,4,4,Rarely,Never,Slightly confident,Job replacement,Disagree,4
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,5 — A lot,4,Rarely,Rarely,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Once a day,Presentations,5 — A lot,4,Sometimes,Never,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,3rd Year,Arts / Humanities,ChatGPT,Rarely,Presentations,3 — Moderately,3 — Neutral,Often,Rarely,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,1st Year,Engineering,Google Gemini,Once a day,Personal use,5 — A lot,5 — Trust completely,Often,Never,Extremely confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,2nd Year,Science,Perplexity,Several times a week,Understanding concepts,3 — Moderately,5 — Trust completely,Always,Very often,Extremely confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Arts / Humanities,ChatGPT,Once a week,Exam preparation,3 — Moderately,4,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,Perplexity,Once a day,Writing/grammar,4,4,Sometimes,Never,Very confident,Over-dependence on AI,Disagree,4
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,4,4,Rarely,Sometimes,Moderately confident,Lack of originality,Disagree,4
+18–20,2nd Year,Other,ChatGPT,Once a week,Academic assignments,3 — Moderately,4,Rarely,Sometimes,Slightly confident,Reduced critical thinking,Disagree,4
+21–23,1st Year,Engineering,ChatGPT,Several times a week,Other,5 — A lot,4,Sometimes,Often,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Microsoft Copilot,Several times a day,Academic assignments,4,5 — Trust completely,Rarely,Rarely,Very confident,No major concern,Disagree,5 — Extremely useful
+21–23,3rd Year,Medical / Health Sciences,ChatGPT,Several times a day,Research,5 — A lot,4,Sometimes,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Medical / Health Sciences,ChatGPT,Never,Understanding concepts,3 — Moderately,3 — Neutral,Always,Sometimes,Slightly confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+18–20,3rd Year,Engineering,Microsoft Copilot,Once a week,Research,3 — Moderately,4,Rarely,Never,Slightly confident,No major concern,Strongly Disagree,4
+24–26,4th Year,Management / Commerce,ChatGPT,Rarely,Understanding concepts,2,4,Always,Sometimes,Slightly confident,No major concern,Disagree,2
+21–23,4th Year,Computer Science / IT,ChatGPT,Rarely,Research,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,4
+21–23,4th Year,Arts / Humanities,ChatGPT,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Sometimes,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,2nd Year,Engineering,Google Gemini,Once a week,Exam preparation,3 — Moderately,3 — Neutral,Often,Often,Moderately confident,No major concern,Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Very confident,Job replacement,Disagree,4
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Writing/grammar,3 — Moderately,3 — Neutral,Often,Never,Slightly confident,Reduced critical thinking,Neutral,3 — Moderately useful
+18–20,2nd Year,Other,Google Gemini,Several times a day,Exam preparation,5 — A lot,3 — Neutral,Often,Often,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,1st Year,Arts / Humanities,ChatGPT,Once a day,Academic assignments,4,5 — Trust completely,Rarely,Never,Extremely confident,Privacy,Strongly Disagree,4
+24–26,2nd Year,Computer Science / IT,Google Gemini,Once a week,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Sometimes,Moderately confident,Lack of originality,Disagree,4
+21–23,2nd Year,Computer Science / IT,ChatGPT,Once a week,Writing/grammar,3 — Moderately,3 — Neutral,Often,Sometimes,Moderately confident,Lack of originality,Strongly Disagree,4
+18–20,2nd Year,Other,ChatGPT,Several times a week,Academic assignments,3 — Moderately,5 — Trust completely,Often,Never,Moderately confident,Privacy,Neutral,4
+18–20,4th Year,Medical / Health Sciences,ChatGPT,Once a day,Understanding concepts,4,4,Often,Often,Very confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Once a day,Coding/programming,3 — Moderately,4,Sometimes,Rarely,Very confident,Reduced critical thinking,Strongly Disagree,4
+Below 18,2nd Year,Management / Commerce,ChatGPT,Rarely,Personal use,2,2,Sometimes,Sometimes,Very confident,Over-dependence on AI,Disagree,3 — Moderately useful
+24–26,1st Year,Engineering,ChatGPT,Several times a week,Coding/programming,3 — Moderately,4,Often,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,Meta AI,Several times a week,Understanding concepts,4,4,Always,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Perplexity,Several times a week,Personal use,4,4,Sometimes,Never,Extremely confident,Incorrect information / hallucination,Agree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,4,4,Always,Very often,Very confident,Job replacement,Disagree,4
+Below 18,2nd Year,Computer Science / IT,Google Gemini,Several times a week,Coding/programming,5 — A lot,4,Sometimes,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,4th Year,Arts / Humanities,Google Gemini,Several times a week,Understanding concepts,5 — A lot,3 — Neutral,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,Postgraduate,Computer Science / IT,Claude,Once a week,Understanding concepts,4,3 — Neutral,Often,Never,Slightly confident,No major concern,Disagree,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,ChatGPT,Rarely,Understanding concepts,2,4,Sometimes,Rarely,Very confident,Reduced critical thinking,Agree,3 — Moderately useful
+Above 26,3rd Year,Engineering,ChatGPT,Rarely,Research,2,4,Rarely,Often,Very confident,Incorrect information / hallucination,Neutral,1 — Not useful
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a week,Academic assignments,5 — A lot,3 — Neutral,Sometimes,Sometimes,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,ChatGPT,Several times a week,Research,4,4,Sometimes,Never,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Management / Commerce,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Often,Very confident,Over-dependence on AI,Neutral,3 — Moderately useful
+24–26,4th Year,Engineering,Perplexity,Once a week,Understanding concepts,4,3 — Neutral,Often,Never,Extremely confident,Over-dependence on AI,Disagree,4
+21–23,4th Year,Management / Commerce,Meta AI,Several times a week,Academic assignments,4,4,Often,Never,Slightly confident,Over-dependence on AI,Disagree,5 — Extremely useful
+Above 26,4th Year,Medical / Health Sciences,ChatGPT,Once a week,Research,3 — Moderately,3 — Neutral,Always,Very often,Very confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,2nd Year,Computer Science / IT,ChatGPT,Once a week,Research,3 — Moderately,3 — Neutral,Rarely,Rarely,Moderately confident,Reduced critical thinking,Neutral,4
+24–26,1st Year,Medical / Health Sciences,ChatGPT,Several times a week,Understanding concepts,4,2,Rarely,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,1st Year,Medical / Health Sciences,Google Gemini,Once a week,Academic assignments,2,2,Sometimes,Rarely,Moderately confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,3rd Year,Arts / Humanities,Google Gemini,Once a day,Understanding concepts,4,4,Sometimes,Not sure,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,3rd Year,Management / Commerce,ChatGPT,Several times a week,Presentations,3 — Moderately,4,Often,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Management / Commerce,Claude,Several times a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Often,Very confident,Incorrect information / hallucination,Neutral,4
+21–23,3rd Year,Management / Commerce,Other,Several times a day,Exam preparation,4,5 — Trust completely,Rarely,Never,Very confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+Above 26,3rd Year,Science,Google Gemini,Once a week,Understanding concepts,4,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+Above 26,4th Year,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Disagree,4
+18–20,1st Year,Other,Google Gemini,Several times a day,Exam preparation,4,4,Always,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Never,Moderately confident,Job replacement,Disagree,3 — Moderately useful
+21–23,4th Year,Science,ChatGPT,Once a week,Academic assignments,2,4,Sometimes,Never,Moderately confident,Over-dependence on AI,Agree,3 — Moderately useful
+18–20,4th Year,Engineering,Google Gemini,Once a week,Personal use,3 — Moderately,2,Always,Sometimes,Very confident,No major concern,Strongly Disagree,4
+18–20,Postgraduate,Computer Science / IT,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Often,Sometimes,Very confident,Reduced critical thinking,Strongly Disagree,4
+18–20,4th Year,Engineering,Claude,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Sometimes,Slightly confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,5 — Trust completely,Often,Often,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+18–20,2nd Year,Engineering,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+Above 26,2nd Year,Engineering,ChatGPT,Several times a day,Exam preparation,3 — Moderately,5 — Trust completely,Often,Rarely,Extremely confident,No major concern,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Other,Several times a week,Academic assignments,4,3 — Neutral,Rarely,Rarely,Very confident,No major concern,Disagree,4
+Above 26,3rd Year,Engineering,ChatGPT,Once a week,Personal use,5 — A lot,3 — Neutral,Sometimes,Sometimes,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Engineering,ChatGPT,Several times a week,Research,4,4,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,2nd Year,Other,ChatGPT,Several times a week,Personal use,4,5 — Trust completely,Sometimes,Never,Very confident,Incorrect information / hallucination,Neutral,4
+18–20,3rd Year,Computer Science / IT,Google Gemini,Once a week,Writing/grammar,4,5 — Trust completely,Never,Never,Not at all confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Engineering,Other,Once a week,Personal use,4,3 — Neutral,Sometimes,Never,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+21–23,1st Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Not sure,Slightly confident,No major concern,Disagree,5 — Extremely useful
+24–26,1st Year,Engineering,Meta AI,Rarely,Understanding concepts,1 — Not at all,3 — Neutral,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,2
+21–23,1st Year,Engineering,ChatGPT,Once a week,Coding/programming,4,4,Sometimes,Never,Extremely confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,Postgraduate,Management / Commerce,Google Gemini,Never,Academic assignments,4,2,Often,Rarely,Slightly confident,Reduced critical thinking,Disagree,4
+18–20,2nd Year,Other,ChatGPT,Never,Personal use,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,Google Gemini,Rarely,Research,2,1 — Do not trust at all,Often,Never,Moderately confident,Reduced critical thinking,Neutral,4
+18–20,3rd Year,Science,Google Gemini,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,4
+21–23,1st Year,Computer Science / IT,Google Gemini,Several times a week,Writing/grammar,3 — Moderately,4,Often,Sometimes,Slightly confident,Job replacement,Disagree,4
+21–23,1st Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Never,Extremely confident,Other,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Engineering,Claude,Several times a week,Personal use,3 — Moderately,4,Sometimes,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+24–26,2nd Year,Computer Science / IT,Other,Once a week,Academic assignments,3 — Moderately,4,Never,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Often,Moderately confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,1st Year,Management / Commerce,Google Gemini,Rarely,Presentations,2,2,Sometimes,Not sure,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,3rd Year,Science,Claude,Several times a day,Exam preparation,5 — A lot,4,Often,Often,Extremely confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Once a day,Writing/grammar,4,3 — Neutral,Often,Rarely,Very confident,Lack of originality,Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,Perplexity,Several times a week,Personal use,3 — Moderately,4,Sometimes,Never,Not at all confident,Over-dependence on AI,Neutral,4
+21–23,2nd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Sometimes,Extremely confident,Reduced critical thinking,Neutral,4
+Below 18,Postgraduate,Computer Science / IT,Claude,Several times a day,Writing/grammar,3 — Moderately,4,Often,Often,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,4,5 — Trust completely,Rarely,Very often,Very confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a week,Research,3 — Moderately,3 — Neutral,Sometimes,Often,Very confident,Lack of originality,Disagree,5 — Extremely useful
+Below 18,2nd Year,Other,Google Gemini,Several times a week,Coding/programming,4,5 — Trust completely,Often,Never,Moderately confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Google Gemini,Several times a day,Academic assignments,4,3 — Neutral,Often,Sometimes,Very confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+24–26,4th Year,Management / Commerce,Claude,Several times a day,Writing/grammar,5 — A lot,4,Often,Very often,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Science,Other,Several times a week,Writing/grammar,3 — Moderately,5 — Trust completely,Sometimes,Sometimes,Slightly confident,Over-dependence on AI,Disagree,4
+18–20,2nd Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,4,5 — Trust completely,Always,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,4th Year,Engineering,ChatGPT,Once a week,Personal use,2,3 — Neutral,Often,Rarely,Very confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,1st Year,Management / Commerce,ChatGPT,Once a week,Research,4,4,Often,Sometimes,Slightly confident,Reduced critical thinking,Disagree,3 — Moderately useful
+21–23,1st Year,Science,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Rarely,Never,Moderately confident,Over-dependence on AI,Neutral,5 — Extremely useful
+18–20,3rd Year,Arts / Humanities,ChatGPT,Several times a week,Writing/grammar,2,3 — Neutral,Rarely,Never,Very confident,Lack of originality,Disagree,4
+21–23,Postgraduate,Computer Science / IT,Perplexity,Several times a day,Understanding concepts,4,5 — Trust completely,Sometimes,Often,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,1st Year,Medical / Health Sciences,Microsoft Copilot,Once a day,Academic assignments,5 — A lot,5 — Trust completely,Often,Very often,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Rarely,Research,2,4,Often,Often,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+24–26,3rd Year,Arts / Humanities,ChatGPT,Several times a week,Academic assignments,4,4,Rarely,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,Google Gemini,Rarely,Academic assignments,4,4,Often,Never,Not at all confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a day,Research,4,3 — Neutral,Often,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Sometimes,Often,Very confident,Academic cheating/plagiarism,Strongly Disagree,4
+21–23,4th Year,Engineering,ChatGPT,Several times a week,Exam preparation,5 — A lot,3 — Neutral,Often,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Several times a week,Exam preparation,5 — A lot,3 — Neutral,Sometimes,Not sure,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+Above 26,1st Year,Computer Science / IT,ChatGPT,Never,Academic assignments,2,5 — Trust completely,Sometimes,Never,Very confident,Reduced critical thinking,Disagree,2
+18–20,1st Year,Engineering,Microsoft Copilot,Several times a day,Coding/programming,4,4,Sometimes,Sometimes,Extremely confident,Incorrect information / hallucination,Disagree,4
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Academic assignments,2,3 — Neutral,Sometimes,Often,Very confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,3rd Year,Science,Google Gemini,Rarely,Research,3 — Moderately,4,Rarely,Never,Slightly confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Medical / Health Sciences,Google Gemini,Several times a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Not sure,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+Above 26,3rd Year,Management / Commerce,Perplexity,Once a day,Personal use,4,4,Often,Sometimes,Moderately confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,3rd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,Postgraduate,Computer Science / IT,ChatGPT,Once a day,Research,4,4,Sometimes,Never,Very confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,2nd Year,Medical / Health Sciences,ChatGPT,Once a week,Academic assignments,3 — Moderately,2,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+24–26,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Understanding concepts,5 — A lot,4,Never,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+18–20,Postgraduate,Engineering,ChatGPT,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,2
+18–20,2nd Year,Other,Microsoft Copilot,Several times a week,Research,3 — Moderately,5 — Trust completely,Sometimes,Often,Very confident,Over-dependence on AI,Disagree,4
+18–20,4th Year,Other,ChatGPT,Several times a week,Other,4,3 — Neutral,Sometimes,Never,Very confident,Job replacement,Strongly Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Once a week,Academic assignments,3 — Moderately,4,Sometimes,Often,Moderately confident,Reduced critical thinking,Disagree,2
+18–20,1st Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Very often,Moderately confident,Over-dependence on AI,Disagree,4
+Below 18,2nd Year,Engineering,Microsoft Copilot,Rarely,Understanding concepts,3 — Moderately,2,Rarely,Never,Slightly confident,No major concern,Disagree,4
+18–20,1st Year,Science,Claude,Once a day,Understanding concepts,4,4,Often,Often,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,1st Year,Computer Science / IT,Microsoft Copilot,Never,Academic assignments,1 — Not at all,3 — Neutral,Rarely,Never,Slightly confident,Lack of originality,Disagree,2
+18–20,2nd Year,Computer Science / IT,Google Gemini,Once a week,Presentations,2,3 — Neutral,Rarely,Never,Moderately confident,Lack of originality,Neutral,4
+18–20,2nd Year,Management / Commerce,Google Gemini,Rarely,Presentations,1 — Not at all,3 — Neutral,Sometimes,Never,Not at all confident,Over-dependence on AI,Disagree,1 — Not useful
+24–26,4th Year,Computer Science / IT,Microsoft Copilot,Several times a week,Academic assignments,4,4,Often,Often,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Management / Commerce,ChatGPT,Once a week,Understanding concepts,2,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Engineering,Google Gemini,Once a day,Writing/grammar,5 — A lot,4,Often,Rarely,Moderately confident,No major concern,Disagree,5 — Extremely useful
+18–20,2nd Year,Medical / Health Sciences,Microsoft Copilot,Once a week,Understanding concepts,3 — Moderately,4,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,2
+24–26,2nd Year,Arts / Humanities,ChatGPT,Several times a day,Writing/grammar,4,4,Sometimes,Never,Moderately confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,Google Gemini,Once a day,Understanding concepts,3 — Moderately,4,Always,Often,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Science,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Very often,Moderately confident,Over-dependence on AI,Disagree,4
+24–26,Postgraduate,Computer Science / IT,Google Gemini,Once a day,Exam preparation,4,4,Often,Never,Very confident,Reduced critical thinking,Strongly Disagree,4
+21–23,2nd Year,Engineering,ChatGPT,Once a day,Understanding concepts,3 — Moderately,4,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Google Gemini,Once a week,Personal use,4,3 — Neutral,Sometimes,Not sure,Moderately confident,Over-dependence on AI,Neutral,3 — Moderately useful
+21–23,4th Year,Arts / Humanities,Perplexity,Once a day,Understanding concepts,4,4,Sometimes,Never,Very confident,No major concern,Disagree,4
+21–23,2nd Year,Arts / Humanities,ChatGPT,Once a week,Academic assignments,3 — Moderately,2,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Often,Very often,Slightly confident,No major concern,Disagree,4
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Often,Slightly confident,Other,Neutral,3 — Moderately useful
+18–20,3rd Year,Other,ChatGPT,Once a week,Research,3 — Moderately,3 — Neutral,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,4th Year,Computer Science / IT,Other,Once a day,Academic assignments,4,5 — Trust completely,Often,Sometimes,Slightly confident,Over-dependence on AI,Disagree,5 — Extremely useful
+24–26,1st Year,Medical / Health Sciences,Google Gemini,Once a week,Research,5 — A lot,3 — Neutral,Sometimes,Very often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,4th Year,Management / Commerce,ChatGPT,Rarely,Presentations,2,3 — Neutral,Always,Sometimes,Very confident,Reduced critical thinking,Strongly Disagree,2
+21–23,4th Year,Engineering,ChatGPT,Once a week,Understanding concepts,4,3 — Neutral,Sometimes,Sometimes,Slightly confident,Other,Disagree,4
+21–23,4th Year,Management / Commerce,Other,Once a day,Academic assignments,4,4,Often,Often,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Sometimes,Sometimes,Extremely confident,No major concern,Neutral,4
+18–20,1st Year,Computer Science / IT,Microsoft Copilot,Once a week,Writing/grammar,4,3 — Neutral,Often,Rarely,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Never,Moderately confident,Privacy,Disagree,5 — Extremely useful
+Above 26,2nd Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,3rd Year,Engineering,Google Gemini,Once a day,Coding/programming,5 — A lot,2,Rarely,Sometimes,Very confident,No major concern,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Medical / Health Sciences,ChatGPT,Once a week,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Never,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Management / Commerce,Google Gemini,Several times a day,Understanding concepts,4,5 — Trust completely,Often,Rarely,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Often,Often,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Engineering,Microsoft Copilot,Never,Understanding concepts,2,4,Rarely,Never,Not at all confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,4th Year,Engineering,Microsoft Copilot,Rarely,Academic assignments,2,4,Often,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,Microsoft Copilot,Rarely,Understanding concepts,4,4,Sometimes,Never,Not at all confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Arts / Humanities,ChatGPT,Rarely,Academic assignments,2,3 — Neutral,Sometimes,Never,Slightly confident,Lack of originality,Disagree,4
+24–26,3rd Year,Computer Science / IT,Microsoft Copilot,Several times a week,Coding/programming,3 — Moderately,3 — Neutral,Often,Often,Slightly confident,Job replacement,Disagree,4
+18–20,4th Year,Science,Other,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Never,Rarely,Very confident,Academic cheating/plagiarism,Strongly Disagree,4
+18–20,4th Year,Science,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Sometimes,Never,Moderately confident,Job replacement,Neutral,5 — Extremely useful
+18–20,4th Year,Management / Commerce,ChatGPT,Several times a week,Coding/programming,5 — A lot,5 — Trust completely,Sometimes,Often,Very confident,Over-dependence on AI,Disagree,4
+24–26,2nd Year,Arts / Humanities,Claude,Once a day,Writing/grammar,4,4,Sometimes,Never,Slightly confident,Job replacement,Disagree,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Rarely,Understanding concepts,3 — Moderately,5 — Trust completely,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,2nd Year,Medical / Health Sciences,Google Gemini,Several times a day,Personal use,4,4,Sometimes,Often,Moderately confident,Privacy,Disagree,5 — Extremely useful
+18–20,3rd Year,Science,Microsoft Copilot,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,3rd Year,Arts / Humanities,ChatGPT,Once a day,Academic assignments,3 — Moderately,5 — Trust completely,Often,Often,Extremely confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Management / Commerce,Google Gemini,Once a day,Personal use,5 — A lot,3 — Neutral,Often,Often,Very confident,Privacy,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Arts / Humanities,Google Gemini,Once a day,Presentations,4,4,Always,Very often,Moderately confident,Job replacement,Disagree,4
+18–20,4th Year,Other,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Rarely,Never,Extremely confident,Job replacement,Strongly Disagree,4
+18–20,4th Year,Engineering,Perplexity,Once a day,Exam preparation,4,3 — Neutral,Often,Often,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,2nd Year,Arts / Humanities,ChatGPT,Several times a week,Research,3 — Moderately,4,Always,Sometimes,Very confident,Over-dependence on AI,Strongly Disagree,4
+18–20,4th Year,Science,ChatGPT,Rarely,Understanding concepts,3 — Moderately,3 — Neutral,Never,Never,Not at all confident,Job replacement,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,Perplexity,Several times a week,Exam preparation,3 — Moderately,4,Often,Very often,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,3rd Year,Medical / Health Sciences,ChatGPT,Once a week,Exam preparation,4,4,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Disagree,4
+18–20,1st Year,Engineering,Claude,Once a day,Understanding concepts,5 — A lot,2,Rarely,Very often,Very confident,Academic cheating/plagiarism,Disagree,4
+18–20,4th Year,Management / Commerce,ChatGPT,Several times a day,Writing/grammar,5 — A lot,5 — Trust completely,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Computer Science / IT,Google Gemini,Once a day,Understanding concepts,3 — Moderately,4,Often,Sometimes,Moderately confident,Academic cheating/plagiarism,Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Rarely,Academic assignments,2,4,Often,Never,Moderately confident,Incorrect information / hallucination,Neutral,2
+Below 18,4th Year,Arts / Humanities,Google Gemini,Several times a week,Personal use,4,4,Always,Very often,Moderately confident,Privacy,Strongly Disagree,4
+18–20,Postgraduate,Engineering,Claude,Once a day,Coding/programming,4,5 — Trust completely,Often,Sometimes,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+24–26,2nd Year,Engineering,Perplexity,Several times a week,Coding/programming,3 — Moderately,4,Sometimes,Never,Very confident,Lack of originality,Strongly Disagree,4
+Below 18,3rd Year,Computer Science / IT,Other,Once a week,Coding/programming,3 — Moderately,2,Rarely,Never,Not at all confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,Google Gemini,Several times a week,Coding/programming,4,4,Often,Often,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,Postgraduate,Arts / Humanities,Microsoft Copilot,Several times a week,Understanding concepts,5 — A lot,4,Sometimes,Never,Moderately confident,No major concern,Disagree,5 — Extremely useful
+18–20,1st Year,Medical / Health Sciences,Google Gemini,Rarely,Personal use,2,2,Always,Sometimes,Moderately confident,Reduced critical thinking,Strongly Disagree,2
+18–20,2nd Year,Computer Science / IT,Meta AI,Several times a week,Coding/programming,5 — A lot,4,Sometimes,Sometimes,Very confident,Over-dependence on AI,Disagree,3 — Moderately useful
+21–23,4th Year,Management / Commerce,Google Gemini,Several times a week,Writing/grammar,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,2nd Year,Engineering,Perplexity,Once a day,Coding/programming,3 — Moderately,3 — Neutral,Rarely,Sometimes,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+18–20,4th Year,Management / Commerce,ChatGPT,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Sometimes,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Rarely,Academic assignments,3 — Moderately,3 — Neutral,Often,Very often,Moderately confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+18–20,Postgraduate,Engineering,Microsoft Copilot,Several times a week,Understanding concepts,3 — Moderately,3 — Neutral,Often,Often,Moderately confident,Job replacement,Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Moderately confident,No major concern,Disagree,4
+21–23,2nd Year,Management / Commerce,ChatGPT,Several times a week,Writing/grammar,3 — Moderately,5 — Trust completely,Sometimes,Rarely,Moderately confident,No major concern,Strongly Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,Other,Several times a day,Presentations,4,4,Sometimes,Sometimes,Very confident,Reduced critical thinking,Neutral,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Understanding concepts,4,4,Always,Very often,Moderately confident,No major concern,Neutral,4
+24–26,3rd Year,Arts / Humanities,ChatGPT,Once a day,Understanding concepts,4,4,Often,Never,Moderately confident,No major concern,Disagree,4
+18–20,3rd Year,Science,ChatGPT,Once a week,Research,3 — Moderately,4,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,4th Year,Engineering,ChatGPT,Several times a week,Academic assignments,3 — Moderately,5 — Trust completely,Sometimes,Very often,Not at all confident,Reduced critical thinking,Neutral,3 — Moderately useful
+21–23,1st Year,Arts / Humanities,Google Gemini,Once a day,Personal use,4,5 — Trust completely,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Arts / Humanities,Meta AI,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Other,Once a week,Academic assignments,3 — Moderately,4,Rarely,Never,Very confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,3rd Year,Management / Commerce,Google Gemini,Several times a day,Academic assignments,4,3 — Neutral,Sometimes,Sometimes,Moderately confident,Over-dependence on AI,Strongly Disagree,4
+24–26,3rd Year,Computer Science / IT,Microsoft Copilot,Several times a day,Personal use,4,4,Often,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+Below 18,1st Year,Science,ChatGPT,Once a week,Understanding concepts,2,3 — Neutral,Sometimes,Not sure,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,2nd Year,Computer Science / IT,Perplexity,Once a day,Research,3 — Moderately,3 — Neutral,Rarely,Rarely,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,4th Year,Management / Commerce,ChatGPT,Once a day,Academic assignments,5 — A lot,3 — Neutral,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a day,Understanding concepts,4,2,Sometimes,Often,Very confident,Lack of originality,Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Other,Once a week,Presentations,5 — A lot,2,Often,Often,Moderately confident,Other,Disagree,4
+18–20,Postgraduate,Other,Perplexity,Once a day,Academic assignments,4,4,Often,Sometimes,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+21–23,1st Year,Engineering,ChatGPT,Once a day,Academic assignments,4,4,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Medical / Health Sciences,Google Gemini,Once a day,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Never,Slightly confident,Lack of originality,Neutral,5 — Extremely useful
+21–23,2nd Year,Other,ChatGPT,Once a day,Presentations,2,4,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+Below 18,4th Year,Medical / Health Sciences,ChatGPT,Once a day,Understanding concepts,4,4,Always,Never,Moderately confident,Other,Disagree,4
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Arts / Humanities,ChatGPT,Several times a day,Other,5 — A lot,4,Often,Very often,Extremely confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a week,Research,4,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,3rd Year,Engineering,ChatGPT,Rarely,Exam preparation,2,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,4th Year,Medical / Health Sciences,Google Gemini,Several times a day,Exam preparation,5 — A lot,3 — Neutral,Sometimes,Never,Very confident,Privacy,Neutral,4
+18–20,2nd Year,Management / Commerce,ChatGPT,Once a day,Writing/grammar,4,4,Often,Very often,Very confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+24–26,2nd Year,Engineering,Meta AI,Rarely,Understanding concepts,2,2,Never,Never,Very confident,Lack of originality,Neutral,4
+18–20,1st Year,Engineering,Google Gemini,Rarely,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+21–23,Postgraduate,Arts / Humanities,Perplexity,Several times a week,Writing/grammar,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+Above 26,3rd Year,Science,ChatGPT,Once a day,Writing/grammar,5 — A lot,4,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Neutral,5 — Extremely useful
+18–20,3rd Year,Engineering,Google Gemini,Several times a week,Personal use,4,3 — Neutral,Sometimes,Never,Very confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Medical / Health Sciences,Perplexity,Once a day,Research,4,4,Rarely,Not sure,Extremely confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,5 — A lot,5 — Trust completely,Rarely,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,5 — A lot,5 — Trust completely,Often,Rarely,Moderately confident,Reduced critical thinking,Neutral,4
+21–23,2nd Year,Management / Commerce,ChatGPT,Several times a week,Writing/grammar,4,3 — Neutral,Always,Often,Moderately confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,3rd Year,Other,ChatGPT,Once a day,Coding/programming,5 — A lot,4,Sometimes,Sometimes,Very confident,Over-dependence on AI,Neutral,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a week,Writing/grammar,4,4,Often,Often,Slightly confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,4,5 — Trust completely,Always,Sometimes,Slightly confident,Lack of originality,Strongly Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,5 — A lot,3 — Neutral,Sometimes,Sometimes,Extremely confident,Reduced critical thinking,Agree,5 — Extremely useful
+Below 18,2nd Year,Arts / Humanities,Google Gemini,Once a week,Writing/grammar,3 — Moderately,3 — Neutral,Often,Sometimes,Moderately confident,Reduced critical thinking,Disagree,4
+18–20,3rd Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,3 — Moderately,5 — Trust completely,Sometimes,Often,Moderately confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+Below 18,1st Year,Engineering,ChatGPT,Once a day,Presentations,5 — A lot,4,Sometimes,Sometimes,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+18–20,Postgraduate,Other,Google Gemini,Several times a week,Understanding concepts,5 — A lot,2,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,4,4,Rarely,Never,Slightly confident,Over-dependence on AI,Disagree,4
+21–23,Postgraduate,Management / Commerce,ChatGPT,Several times a day,Coding/programming,4,2,Often,Sometimes,Moderately confident,Job replacement,Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,ChatGPT,Once a week,Coding/programming,4,4,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,1st Year,Arts / Humanities,ChatGPT,Several times a day,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Never,Slightly confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Engineering,ChatGPT,Several times a week,Presentations,4,3 — Neutral,Sometimes,Often,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+21–23,1st Year,Engineering,ChatGPT,Several times a week,Presentations,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a day,Coding/programming,4,5 — Trust completely,Rarely,Never,Moderately confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,1st Year,Science,Other,Several times a day,Research,5 — A lot,3 — Neutral,Rarely,Often,Moderately confident,Lack of originality,Strongly Disagree,5 — Extremely useful
+21–23,Postgraduate,Science,Perplexity,Once a day,Academic assignments,4,3 — Neutral,Sometimes,Never,Slightly confident,Job replacement,Disagree,3 — Moderately useful
+18–20,1st Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,3 — Moderately,3 — Neutral,Always,Never,Not at all confident,Academic cheating/plagiarism,Neutral,2
+18–20,1st Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+Above 26,4th Year,Medical / Health Sciences,ChatGPT,Once a day,Writing/grammar,4,4,Often,Very often,Moderately confident,Incorrect information / hallucination,Disagree,4
+Below 18,3rd Year,Computer Science / IT,Perplexity,Several times a day,Academic assignments,5 — A lot,3 — Neutral,Often,Rarely,Slightly confident,Incorrect information / hallucination,Strongly Disagree,4
+Below 18,4th Year,Computer Science / IT,Claude,Several times a week,Research,5 — A lot,4,Often,Sometimes,Moderately confident,Reduced critical thinking,Neutral,4
+Above 26,3rd Year,Management / Commerce,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Often,Often,Very confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Engineering,ChatGPT,Several times a week,Research,3 — Moderately,4,Rarely,Sometimes,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Once a week,Coding/programming,4,4,Often,Very often,Not at all confident,Incorrect information / hallucination,Disagree,4
+24–26,3rd Year,Engineering,Perplexity,Several times a week,Understanding concepts,4,4,Sometimes,Often,Very confident,Privacy,Disagree,3 — Moderately useful
+24–26,3rd Year,Computer Science / IT,Perplexity,Once a day,Coding/programming,3 — Moderately,3 — Neutral,Sometimes,Rarely,Slightly confident,Reduced critical thinking,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Engineering,ChatGPT,Several times a day,Exam preparation,5 — A lot,5 — Trust completely,Often,Very often,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+21–23,2nd Year,Science,Google Gemini,Several times a day,Research,5 — A lot,4,Often,Sometimes,Moderately confident,Privacy,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,5 — A lot,4,Rarely,Never,Moderately confident,No major concern,Disagree,4
+18–20,1st Year,Computer Science / IT,Microsoft Copilot,Rarely,Coding/programming,4,4,Rarely,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Arts / Humanities,Meta AI,Once a day,Understanding concepts,5 — A lot,3 — Neutral,Sometimes,Sometimes,Very confident,Lack of originality,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,5 — Trust completely,Sometimes,Never,Very confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,1st Year,Science,ChatGPT,Once a week,Research,3 — Moderately,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,4
+21–23,2nd Year,Engineering,Google Gemini,Several times a day,Academic assignments,4,5 — Trust completely,Sometimes,Never,Very confident,Lack of originality,Strongly Disagree,4
+Below 18,4th Year,Science,ChatGPT,Several times a day,Research,3 — Moderately,3 — Neutral,Often,Sometimes,Slightly confident,Privacy,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Computer Science / IT,Claude,Once a day,Research,3 — Moderately,2,Often,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a week,Research,4,5 — Trust completely,Often,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,4
+24–26,4th Year,Engineering,Perplexity,Several times a week,Academic assignments,2,4,Sometimes,Never,Very confident,Over-dependence on AI,Disagree,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+21–23,4th Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,2,4,Rarely,Never,Moderately confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Science,ChatGPT,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Often,Rarely,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,1st Year,Arts / Humanities,ChatGPT,Never,Academic assignments,2,3 — Neutral,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,3 — Moderately,4,Sometimes,Rarely,Moderately confident,Over-dependence on AI,Disagree,4
+21–23,4th Year,Medical / Health Sciences,Google Gemini,Once a week,Academic assignments,4,3 — Neutral,Rarely,Never,Moderately confident,Lack of originality,Disagree,4
+21–23,2nd Year,Arts / Humanities,ChatGPT,Once a week,Writing/grammar,4,3 — Neutral,Often,Often,Slightly confident,Reduced critical thinking,Disagree,4
+21–23,3rd Year,Arts / Humanities,ChatGPT,Once a week,Understanding concepts,3 — Moderately,4,Sometimes,Rarely,Not at all confident,No major concern,Disagree,3 — Moderately useful
+Above 26,2nd Year,Science,ChatGPT,Once a week,Writing/grammar,3 — Moderately,4,Often,Never,Not at all confident,Over-dependence on AI,Disagree,3 — Moderately useful
+18–20,3rd Year,Management / Commerce,ChatGPT,Rarely,Academic assignments,3 — Moderately,4,Sometimes,Often,Moderately confident,Academic cheating/plagiarism,Disagree,4
+18–20,3rd Year,Engineering,Perplexity,Several times a week,Coding/programming,3 — Moderately,5 — Trust completely,Often,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+Below 18,3rd Year,Management / Commerce,Meta AI,Several times a week,Understanding concepts,3 — Moderately,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,3rd Year,Medical / Health Sciences,ChatGPT,Several times a week,Exam preparation,4,2,Sometimes,Never,Slightly confident,Job replacement,Strongly Disagree,4
+21–23,1st Year,Computer Science / IT,Claude,Once a week,Writing/grammar,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Incorrect information / hallucination,Disagree,3 — Moderately useful
+18–20,3rd Year,Engineering,Microsoft Copilot,Several times a week,Understanding concepts,3 — Moderately,4,Often,Sometimes,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Computer Science / IT,Other,Once a week,Coding/programming,3 — Moderately,2,Sometimes,Never,Very confident,Lack of originality,Disagree,5 — Extremely useful
+24–26,3rd Year,Other,ChatGPT,Once a week,Understanding concepts,3 — Moderately,3 — Neutral,Rarely,Never,Very confident,Privacy,Strongly Disagree,4
+18–20,1st Year,Engineering,ChatGPT,Rarely,Coding/programming,1 — Not at all,3 — Neutral,Sometimes,Not sure,Moderately confident,Incorrect information / hallucination,Neutral,3 — Moderately useful
+21–23,2nd Year,Management / Commerce,ChatGPT,Once a day,Academic assignments,4,5 — Trust completely,Sometimes,Sometimes,Very confident,Reduced critical thinking,Disagree,4
+18–20,2nd Year,Arts / Humanities,Claude,Once a week,Coding/programming,4,3 — Neutral,Rarely,Never,Very confident,Over-dependence on AI,Disagree,4
+Above 26,1st Year,Other,Microsoft Copilot,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Lack of originality,Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Rarely,Exam preparation,4,3 — Neutral,Often,Sometimes,Slightly confident,Reduced critical thinking,Neutral,3 — Moderately useful
+18–20,2nd Year,Arts / Humanities,ChatGPT,Rarely,Coding/programming,4,3 — Neutral,Rarely,Never,Slightly confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Medical / Health Sciences,Google Gemini,Several times a week,Research,5 — A lot,4,Rarely,Never,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+24–26,2nd Year,Computer Science / IT,Perplexity,Several times a week,Understanding concepts,5 — A lot,5 — Trust completely,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,4th Year,Science,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Always,Often,Moderately confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,Google Gemini,Never,Personal use,2,3 — Neutral,Rarely,Sometimes,Moderately confident,Over-dependence on AI,Disagree,3 — Moderately useful
+21–23,4th Year,Management / Commerce,ChatGPT,Once a day,Personal use,5 — A lot,4,Sometimes,Never,Very confident,Job replacement,Disagree,4
+24–26,3rd Year,Engineering,ChatGPT,Once a week,Exam preparation,3 — Moderately,3 — Neutral,Sometimes,Never,Very confident,Privacy,Disagree,4
+18–20,3rd Year,Computer Science / IT,Google Gemini,Once a week,Academic assignments,3 — Moderately,4,Often,Sometimes,Not at all confident,Academic cheating/plagiarism,Strongly Disagree,2
+18–20,3rd Year,Computer Science / IT,Claude,Several times a week,Research,3 — Moderately,4,Sometimes,Sometimes,Extremely confident,Incorrect information / hallucination,Disagree,2
+21–23,Postgraduate,Computer Science / IT,Other,Once a day,Coding/programming,4,5 — Trust completely,Sometimes,Sometimes,Slightly confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,4,4,Sometimes,Never,Slightly confident,Over-dependence on AI,Neutral,5 — Extremely useful
+21–23,3rd Year,Management / Commerce,ChatGPT,Once a week,Research,3 — Moderately,4,Sometimes,Sometimes,Slightly confident,Privacy,Strongly Disagree,1 — Not useful
+21–23,3rd Year,Engineering,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Often,Very often,Very confident,No major concern,Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a day,Understanding concepts,4,4,Often,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+24–26,1st Year,Science,ChatGPT,Once a week,Writing/grammar,2,5 — Trust completely,Often,Never,Slightly confident,Reduced critical thinking,Disagree,3 — Moderately useful
+24–26,3rd Year,Management / Commerce,ChatGPT,Once a day,Understanding concepts,3 — Moderately,5 — Trust completely,Sometimes,Sometimes,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+21–23,3rd Year,Engineering,ChatGPT,Rarely,Presentations,2,2,Sometimes,Never,Not at all confident,Reduced critical thinking,Neutral,3 — Moderately useful
+18–20,Postgraduate,Medical / Health Sciences,ChatGPT,Once a day,Research,3 — Moderately,4,Often,Never,Very confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Engineering,ChatGPT,Once a day,Exam preparation,4,2,Rarely,Never,Very confident,Reduced critical thinking,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Arts / Humanities,Claude,Several times a day,Writing/grammar,5 — A lot,4,Often,Very often,Extremely confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+Below 18,Postgraduate,Computer Science / IT,ChatGPT,Several times a week,Exam preparation,4,5 — Trust completely,Rarely,Never,Moderately confident,Incorrect information / hallucination,Neutral,4
+Above 26,2nd Year,Science,Google Gemini,Several times a week,Understanding concepts,4,4,Always,Often,Not at all confident,Privacy,Disagree,5 — Extremely useful
+18–20,1st Year,Other,Perplexity,Once a week,Research,4,4,Sometimes,Rarely,Slightly confident,Over-dependence on AI,Disagree,4
+21–23,1st Year,Arts / Humanities,Google Gemini,Several times a week,Research,4,1 — Do not trust at all,Sometimes,Rarely,Moderately confident,Over-dependence on AI,Disagree,4
+24–26,1st Year,Management / Commerce,ChatGPT,Once a day,Personal use,4,4,Often,Never,Moderately confident,Academic cheating/plagiarism,Disagree,4
+18–20,1st Year,Management / Commerce,ChatGPT,Once a day,Academic assignments,5 — A lot,4,Often,Sometimes,Moderately confident,No major concern,Strongly Disagree,4
+18–20,2nd Year,Engineering,Google Gemini,Once a day,Coding/programming,5 — A lot,4,Rarely,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+21–23,4th Year,Management / Commerce,ChatGPT,Rarely,Exam preparation,3 — Moderately,4,Sometimes,Rarely,Moderately confident,Privacy,Strongly Disagree,3 — Moderately useful
+21–23,4th Year,Science,ChatGPT,Several times a day,Understanding concepts,5 — A lot,4,Sometimes,Never,Very confident,Lack of originality,Neutral,5 — Extremely useful
+18–20,1st Year,Other,ChatGPT,Never,Academic assignments,1 — Not at all,3 — Neutral,Often,Never,Moderately confident,Reduced critical thinking,Neutral,2
+21–23,3rd Year,Engineering,Google Gemini,Once a day,Understanding concepts,4,3 — Neutral,Always,Sometimes,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
+24–26,1st Year,Computer Science / IT,ChatGPT,Several times a day,Academic assignments,4,4,Sometimes,Never,Very confident,Privacy,Disagree,5 — Extremely useful
+18–20,Postgraduate,Management / Commerce,Google Gemini,Once a day,Writing/grammar,5 — A lot,3 — Neutral,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,ChatGPT,Several times a day,Coding/programming,5 — A lot,3 — Neutral,Sometimes,Not sure,Very confident,Privacy,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,2,3 — Neutral,Always,Never,Not at all confident,Over-dependence on AI,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Engineering,Claude,Several times a week,Academic assignments,5 — A lot,5 — Trust completely,Sometimes,Never,Slightly confident,Job replacement,Strongly Disagree,4
+18–20,3rd Year,Science,ChatGPT,Once a day,Understanding concepts,3 — Moderately,4,Rarely,Never,Moderately confident,Lack of originality,Strongly Disagree,4
+18–20,2nd Year,Computer Science / IT,Google Gemini,Several times a week,Research,3 — Moderately,4,Rarely,Never,Extremely confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Computer Science / IT,ChatGPT,Several times a week,Presentations,3 — Moderately,3 — Neutral,Always,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,ChatGPT,Rarely,Coding/programming,2,2,Sometimes,Never,Not at all confident,Over-dependence on AI,Disagree,3 — Moderately useful
+24–26,4th Year,Medical / Health Sciences,Meta AI,Rarely,Academic assignments,2,4,Often,Never,Moderately confident,Privacy,Neutral,2
+18–20,3rd Year,Science,ChatGPT,Once a week,Research,4,2,Sometimes,Sometimes,Very confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,ChatGPT,Once a week,Exam preparation,4,3 — Neutral,Often,Never,Moderately confident,Reduced critical thinking,Strongly Disagree,4
+21–23,4th Year,Computer Science / IT,Meta AI,Once a week,Research,4,3 — Neutral,Sometimes,Very often,Very confident,Over-dependence on AI,Disagree,4
+24–26,Postgraduate,Management / Commerce,Microsoft Copilot,Several times a week,Understanding concepts,3 — Moderately,4,Sometimes,Not sure,Moderately confident,No major concern,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,Microsoft Copilot,Once a week,Academic assignments,3 — Moderately,3 — Neutral,Sometimes,Never,Slightly confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a day,Personal use,5 — A lot,3 — Neutral,Rarely,Never,Very confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Once a week,Exam preparation,4,3 — Neutral,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Medical / Health Sciences,Google Gemini,Rarely,Academic assignments,1 — Not at all,3 — Neutral,Rarely,Never,Moderately confident,Reduced critical thinking,Neutral,2
+18–20,3rd Year,Computer Science / IT,ChatGPT,Several times a day,Writing/grammar,4,4,Often,Sometimes,Slightly confident,Incorrect information / hallucination,Disagree,5 — Extremely useful
+18–20,Postgraduate,Management / Commerce,ChatGPT,Once a week,Academic assignments,3 — Moderately,4,Often,Sometimes,Very confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+18–20,Postgraduate,Computer Science / IT,Claude,Rarely,Academic assignments,2,2,Sometimes,Never,Slightly confident,Academic cheating/plagiarism,Disagree,4
+18–20,3rd Year,Other,ChatGPT,Once a day,Exam preparation,4,4,Never,Never,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+24–26,3rd Year,Other,ChatGPT,Several times a week,Research,4,4,Rarely,Never,Slightly confident,No major concern,Strongly Disagree,4
+21–23,4th Year,Science,ChatGPT,Rarely,Understanding concepts,2,4,Sometimes,Not sure,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,3 — Moderately useful
+18–20,Postgraduate,Engineering,ChatGPT,Rarely,Presentations,3 — Moderately,3 — Neutral,Always,Very often,Very confident,Incorrect information / hallucination,Disagree,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a day,Exam preparation,5 — A lot,5 — Trust completely,Rarely,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Arts / Humanities,Perplexity,Once a day,Academic assignments,4,4,Often,Sometimes,Very confident,Academic cheating/plagiarism,Neutral,5 — Extremely useful
+18–20,4th Year,Science,ChatGPT,Once a week,Research,3 — Moderately,4,Often,Rarely,Slightly confident,Other,Strongly Disagree,4
+21–23,2nd Year,Computer Science / IT,ChatGPT,Once a day,Writing/grammar,4,3 — Neutral,Often,Sometimes,Moderately confident,Over-dependence on AI,Neutral,5 — Extremely useful
+24–26,2nd Year,Engineering,Google Gemini,Once a day,Coding/programming,4,2,Rarely,Sometimes,Slightly confident,Reduced critical thinking,Disagree,4
+24–26,Postgraduate,Engineering,ChatGPT,Several times a day,Other,3 — Moderately,5 — Trust completely,Sometimes,Very often,Very confident,No major concern,Disagree,4
+Above 26,Postgraduate,Arts / Humanities,ChatGPT,Several times a day,Writing/grammar,5 — A lot,5 — Trust completely,Sometimes,Never,Very confident,Reduced critical thinking,Disagree,5 — Extremely useful
+Above 26,4th Year,Management / Commerce,Meta AI,Several times a week,Academic assignments,3 — Moderately,4,Sometimes,Never,Moderately confident,Academic cheating/plagiarism,Disagree,3 — Moderately useful
+24–26,4th Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,5 — A lot,3 — Neutral,Often,Not sure,Slightly confident,Reduced critical thinking,Disagree,3 — Moderately useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a week,Presentations,4,5 — Trust completely,Sometimes,Never,Moderately confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Computer Science / IT,Other,Once a week,Other,4,3 — Neutral,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,4
+18–20,3rd Year,Engineering,ChatGPT,Several times a week,Academic assignments,3 — Moderately,4,Sometimes,Sometimes,Moderately confident,Other,Disagree,3 — Moderately useful
+21–23,3rd Year,Computer Science / IT,Meta AI,Once a day,Academic assignments,4,5 — Trust completely,Sometimes,Often,Moderately confident,Incorrect information / hallucination,Disagree,4
+18–20,3rd Year,Science,ChatGPT,Several times a day,Exam preparation,4,5 — Trust completely,Often,Sometimes,Extremely confident,Over-dependence on AI,Strongly Disagree,5 — Extremely useful
+21–23,3rd Year,Engineering,Google Gemini,Once a day,Academic assignments,4,4,Sometimes,Often,Moderately confident,Incorrect information / hallucination,Strongly Disagree,5 — Extremely useful
+21–23,2nd Year,Engineering,Meta AI,Once a day,Academic assignments,5 — A lot,3 — Neutral,Often,Sometimes,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,4th Year,Computer Science / IT,Google Gemini,Several times a day,Exam preparation,5 — A lot,3 — Neutral,Rarely,Never,Moderately confident,Reduced critical thinking,Disagree,4
+18–20,2nd Year,Computer Science / IT,ChatGPT,Several times a day,Writing/grammar,4,5 — Trust completely,Often,Sometimes,Very confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,2nd Year,Management / Commerce,ChatGPT,Several times a day,Presentations,4,5 — Trust completely,Sometimes,Often,Very confident,Reduced critical thinking,Strongly Disagree,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a week,Coding/programming,4,4,Sometimes,Often,Moderately confident,Academic cheating/plagiarism,Disagree,4
+21–23,1st Year,Computer Science / IT,Google Gemini,Several times a week,Understanding concepts,4,5 — Trust completely,Sometimes,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,4
+21–23,4th Year,Science,ChatGPT,Rarely,Personal use,1 — Not at all,3 — Neutral,Rarely,Never,Not at all confident,Over-dependence on AI,Neutral,3 — Moderately useful
+21–23,2nd Year,Engineering,Google Gemini,Once a week,Understanding concepts,2,2,Always,Often,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+18–20,2nd Year,Engineering,Google Gemini,Several times a week,Understanding concepts,4,4,Often,Never,Moderately confident,Job replacement,Strongly Disagree,5 — Extremely useful
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Presentations,3 — Moderately,3 — Neutral,Sometimes,Never,Moderately confident,Reduced critical thinking,Disagree,4
+18–20,3rd Year,Arts / Humanities,ChatGPT,Several times a week,Writing/grammar,3 — Moderately,3 — Neutral,Always,Often,Moderately confident,Lack of originality,Disagree,5 — Extremely useful
+21–23,1st Year,Engineering,ChatGPT,Several times a day,Presentations,5 — A lot,4,Often,Sometimes,Slightly confident,Job replacement,Disagree,3 — Moderately useful
+21–23,2nd Year,Science,ChatGPT,Several times a week,Academic assignments,4,3 — Neutral,Sometimes,Never,Moderately confident,Over-dependence on AI,Disagree,5 — Extremely useful
+18–20,1st Year,Medical / Health Sciences,ChatGPT,Once a day,Personal use,4,3 — Neutral,Rarely,Never,Slightly confident,Reduced critical thinking,Disagree,3 — Moderately useful
+24–26,3rd Year,Management / Commerce,ChatGPT,Several times a week,Writing/grammar,3 — Moderately,5 — Trust completely,Sometimes,Never,Moderately confident,Job replacement,Neutral,5 — Extremely useful
+18–20,2nd Year,Engineering,ChatGPT,Once a day,Research,5 — A lot,4,Sometimes,Often,Moderately confident,No major concern,Neutral,4
+24–26,1st Year,Science,ChatGPT,Once a week,Personal use,3 — Moderately,3 — Neutral,Sometimes,Rarely,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+18–20,1st Year,Engineering,Google Gemini,Once a week,Understanding concepts,3 — Moderately,4,Sometimes,Never,Slightly confident,Reduced critical thinking,Disagree,4
+18–20,3rd Year,Engineering,ChatGPT,Once a week,Writing/grammar,3 — Moderately,4,Sometimes,Never,Slightly confident,Over-dependence on AI,Disagree,3 — Moderately useful
+21–23,1st Year,Engineering,Other,Several times a week,Research,4,4,Rarely,Never,Slightly confident,Job replacement,Strongly Disagree,4
+18–20,4th Year,Engineering,Meta AI,Several times a week,Exam preparation,5 — A lot,4,Rarely,Never,Very confident,No major concern,Disagree,4
+18–20,1st Year,Computer Science / IT,Google Gemini,Several times a day,Presentations,5 — A lot,4,Sometimes,Never,Moderately confident,No major concern,Strongly Disagree,5 — Extremely useful
+18–20,3rd Year,Engineering,Other,Once a week,Research,4,4,Often,Rarely,Not at all confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+18–20,2nd Year,Computer Science / IT,Perplexity,Several times a week,Academic assignments,3 — Moderately,4,Often,Never,Slightly confident,Incorrect information / hallucination,Strongly Disagree,3 — Moderately useful
+21–23,2nd Year,Engineering,ChatGPT,Once a day,Academic assignments,4,4,Sometimes,Never,Very confident,Job replacement,Disagree,5 — Extremely useful
+21–23,1st Year,Management / Commerce,Microsoft Copilot,Once a day,Personal use,4,4,Always,Rarely,Moderately confident,Reduced critical thinking,Disagree,4
+24–26,4th Year,Medical / Health Sciences,ChatGPT,Rarely,Personal use,3 — Moderately,4,Rarely,Never,Very confident,No major concern,Agree,3 — Moderately useful
+18–20,4th Year,Computer Science / IT,Microsoft Copilot,Several times a week,Personal use,3 — Moderately,3 — Neutral,Rarely,Never,Slightly confident,Academic cheating/plagiarism,Strongly Disagree,4
+21–23,1st Year,Management / Commerce,ChatGPT,Several times a week,Academic assignments,5 — A lot,4,Sometimes,Never,Moderately confident,Lack of originality,Strongly Disagree,4
+18–20,1st Year,Engineering,ChatGPT,Several times a week,Understanding concepts,4,4,Often,Never,Very confident,Reduced critical thinking,Disagree,4
+18–20,4th Year,Computer Science / IT,ChatGPT,Several times a week,Research,3 — Moderately,3 — Neutral,Rarely,Never,Moderately confident,Incorrect information / hallucination,Neutral,5 — Extremely useful
+18–20,3rd Year,Computer Science / IT,Other,Several times a week,Research,4,3 — Neutral,Often,Sometimes,Slightly confident,Incorrect information / hallucination,Neutral,4
+24–26,1st Year,Computer Science / IT,ChatGPT,Once a day,Academic assignments,4,4,Often,Never,Slightly confident,Reduced critical thinking,Strongly Disagree,4
+24–26,1st Year,Computer Science / IT,ChatGPT,Several times a week,Coding/programming,4,3 — Neutral,Often,Often,Very confident,Incorrect information / hallucination,Disagree,4
+21–23,3rd Year,Computer Science / IT,ChatGPT,Once a week,Academic assignments,2,2,Sometimes,Sometimes,Slightly confident,Job replacement,Strongly Disagree,4
+18–20,4th Year,Engineering,ChatGPT,Several times a day,Coding/programming,4,4,Rarely,Never,Very confident,Privacy,Strongly Disagree,4
+18–20,3rd Year,Engineering,Perplexity,Once a week,Understanding concepts,3 — Moderately,4,Rarely,Never,Slightly confident,Over-dependence on AI,Strongly Disagree,4
+21–23,Postgraduate,Computer Science / IT,Claude,Once a day,Academic assignments,5 — A lot,5 — Trust completely,Rarely,Never,Moderately confident,Academic cheating/plagiarism,Strongly Disagree,5 — Extremely useful
