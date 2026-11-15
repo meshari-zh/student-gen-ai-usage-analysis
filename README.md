@@ -14,6 +14,16 @@ An end-to-end data analysis project examining how college students utilize Gener
 
 ---
 
+## 📚 Data Source & Citation
+
+- **Dataset Title:** Generative AI Tool Usage, Preferences and Trust Among College Students
+- **Author/Contributor:** Rochit Kumar Singh
+- **Institution:** Bharati Vidyapeeth Deemed University, Maharashtra, Pune
+- **License:** CC BY 4.0
+- **Dataset Reference:** [Mendeley Data, DOI: 10.17632/n3n4wrjzvm.1](https://data.mendeley.com/datasets/n3n4wrjzvm/1)
+
+---
+
 ## 🛠️ Data Processing & Cleaning Pipeline
 
 1. **Standardization:** Renamed raw columns into clean, uniform `snake_case` format.
